@@ -312,7 +312,7 @@ def generate_processing_report(results: list, collection_name: str) -> dict:
     avg_confidence = sum(confidences) / len(confidences) if confidences else 0
     
     # Calculate text lengths
-    text_lengths = [r.get("text_length", 0) for r in results if r.get("status") == "success")]
+    text_lengths = [r.get("text_length", 0) for r in results if r.get("status") == "success"]
     total_text = sum(text_lengths)
     
     # Group by source file
