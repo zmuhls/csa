@@ -1,0 +1,139 @@
+# OCR Configuration for Common School Archive
+# Using Qwen VL Plus via OpenRouter
+
+# Output settings
+output_dir: "./output/ocr"
+
+# Image processing settings
+max_image_size: [4000, 4000]
+jpeg_quality: 95
+dpi_for_pdf: 300
+
+# API settings
+batch_size: 5
+max_retries: 3
+retry_delay: 2
+max_tokens: 4000
+temperature: 0.1
+
+# Document type detection patterns
+document_patterns:
+  handwritten:
+    - "*IMG_3*"
+    - "*handwritten*"
+    - "*manuscript*"
+  typed:
+    - "*typed*"
+    - "*typewritten*"
+    - "Toward-Better-Schools*"
+  mixed:
+    - "*form*"
+    - "*ledger*"
+    - "*notecard*"
+  historical_document:
+    - "*"  # Default fallback
+
+# Prompts for different document types
+prompts:
+  historical_document: |
+    You are an expert at transcribing historical documents from the New York State Common School system (1800s-1900s).
+    
+    Please transcribe this document image following these rules:
+    1. Preserve original spelling, capitalization, and punctuation exactly as written
+    2. Maintain original line breaks and formatting where possible
+    3. For unclear text, use [?] to indicate uncertainty
+    4. For completely illegible sections, use [illegible]
+    5. Note any stamps, seals, or marginal annotations in brackets [stamp: ...]
+    6. Preserve archaic spellings and abbreviations (e.g., "inst." for instant, "&c" for etc.)
+    
+    Additional context:
+    - Common terms: selectmen, freeholders, trustees, district, common school
+    - Typical content: meeting minutes, district formations, tax rolls, teacher appointments
+    - Date formats often use "instant" to mean current month
+    
+    Transcribe the complete text from the image:
+
+  handwritten: |
+    You are an expert at reading 19th century American handwriting, particularly administrative and legal documents.
+    
+    Transcribe this handwritten document with special attention to:
+    1. Period-appropriate script styles and letterforms
+    2. Common abbreviations and contractions of the era
+    3. Preserve exact spelling even if archaic
+    4. Use [?] for uncertain characters or words
+    5. Note any corrections, insertions, or strikethroughs as [correction: ...]
+    6. Identify different hands if multiple writers present as [different hand:]
+    
+    Focus on accuracy over interpretation. Transcribe exactly what is written:
+
+  typed: |
+    Transcribe this typewritten historical document exactly as it appears.
+    
+    Rules:
+    1. Preserve all formatting, spacing, and alignment
+    2. Maintain original typos and spelling
+    3. Note any handwritten additions as [handwritten: ...]
+    4. Indicate stamps or seals as [stamp: ...]
+    5. Use [?] for unclear characters due to print quality
+    6. Preserve headers, footers, and page numbers
+    
+    Transcribe the document:
+
+  mixed: |
+    This document contains both typewritten and handwritten text. Transcribe all content exactly.
+    
+    Instructions:
+    1. Clearly distinguish between typed and handwritten sections
+    2. Use [typed:] and [handwritten:] markers when switching between modes
+    3. Preserve all original text exactly as written
+    4. Note any forms, tables, or structured layouts
+    5. Use [?] for uncertain text
+    6. Indicate any stamps, seals, or official markings
+    
+    Transcribe all visible text:
+
+  table_form: |
+    This document contains tabular data or a form. Transcribe maintaining structure.
+    
+    Instructions:
+    1. Preserve table/form layout using appropriate formatting
+    2. Use | to separate columns in tables
+    3. Indicate blank fields as [blank]
+    4. Note pre-printed vs filled-in text
+    5. Maintain alignment where meaningful
+    6. Include all headers, labels, and data
+    
+    Transcribe the structured document:
+
+# Processing priorities (higher number = higher priority)
+priorities:
+  "Kheel Center": 10
+  "NYS Archives/A4456": 9
+  "NYS Archives/A4645": 8
+  "NYS Archives/B0494": 7
+  "NYS Archives/B0594": 7
+  "raw/imgs": 5
+
+# Specific files configuration
+specific_files:
+  "Toward-Better-Schools.pdf":
+    document_type: "typed"
+    expected_pages: 10
+    notes: "Published report, likely good OCR quality"
+  
+  "Amityville-Records.pdf":
+    document_type: "mixed"
+    expected_pages: 50
+    notes: "Mixed handwritten and typed content"
+  
+  "District-Consolidation-Data_100-116.pdf":
+    document_type: "table_form"
+    notes: "Contains statistical tables"
+  
+  "District-Notecard-Records.pdf":
+    document_type: "mixed"
+    notes: "Index cards with mixed content"
+  
+  "South-Kortright-Roll-13.pdf":
+    document_type: "handwritten"
+    notes: "Historical roll, likely challenging handwriting"
