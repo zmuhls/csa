@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0049-12",
+  "source_images": [
+    "img_0136"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction Report",
+  "location_guess": "",
+  "notes": "Page number 60 visible at top left. Text discusses educational system growth and the 'Rate Bill'.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

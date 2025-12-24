@@ -1,0 +1,20 @@
+{
+  "artifact_group_id": "S0041",
+  "source_images": [
+    "img_0312",
+    "img_0313"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 2,
+  "item_type": "document_page",
+  "subject": "Text document",
+  "location_guess": "",
+  "notes": "The document appears to be a printed page with dense text, likely from a report or article. The content is not legible in the image.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -27,26 +27,35 @@ async def process_loose_images():
     ocr = QwenVLOCR(config_path="ocr_config.yaml")
     logger.info("Initialized Qwen VL Plus OCR processor for Loose Images")
     
-    inventory_path = Path("csv/images_inventory.csv")
+    inventory_path = Path("csv/images_inventory_labeled.csv")
     if not inventory_path.exists():
         logger.error(f"Inventory file not found: {inventory_path}")
         return
     
     # Read inventory
     images_to_process = []
+    already_processed = 0
+    ocr_text_dir = Path("output/ocr/text")
+
     with open(inventory_path, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             # Verify file exists
             img_path = Path(row['relative_path'])
             if img_path.exists():
+                # Check if already processed (skip if output exists)
+                output_path = ocr_text_dir / f"{img_path.stem}.txt"
+                if output_path.exists() and output_path.stat().st_size > 0:
+                    already_processed += 1
+                    continue
+
                 images_to_process.append({
                     "path": img_path,
                     "id": row['id'],
                     "item_type": row.get('item_type', '')
                 })
-    
-    logger.info(f"Found {len(images_to_process)} images in inventory")
+
+    logger.info(f"Found {len(images_to_process)} images to process ({already_processed} already completed)")
     
     # Process in batches
     batch_size = 5  # Concurrent requests

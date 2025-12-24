@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0004_0001",
+  "source_images": [
+    "img_0196"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "cover_or_title_page",
+  "subject": "Constitution and By-Laws of the Republican Association of Jefferson County, N.Y.",
+  "location_guess": "",
+  "notes": "The document appears aged with visible wear and handwritten annotations.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0049-20",
+  "source_images": [
+    "img_0144"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction Minutes",
+  "location_guess": "",
+  "notes": "Page from a historical document, likely a meeting minutes or report from the Department of Public Instruction, dated March to July 1794.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

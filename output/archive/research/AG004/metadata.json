@@ -1,0 +1,28 @@
+{
+  "artifact_group_id": "AG004",
+  "source_images": [
+    "img_0036",
+    "img_0037",
+    "img_0027",
+    "img_0038",
+    "img_0039",
+    "img_0029",
+    "img_0040",
+    "img_0041",
+    "img_0033",
+    "img_0035"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 10,
+  "item_type": "document_page",
+  "subject": "Handwritten list titled 'Names' (research reference sheet)",
+  "location_guess": "Research notes in folder",
+  "notes": "White sheet with a list of names written in pencil; likely reference list related to NYS education figures.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

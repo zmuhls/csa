@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0055-06",
+  "source_images": [
+    "img_0185"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Text discussing educational supervision and teacher qualifications",
+  "location_guess": "",
+  "notes": "Page number 37 visible at top of right-hand page.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

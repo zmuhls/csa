@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0019-004",
+  "source_images": [
+    "img_0229"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "ledger_or_register",
+  "subject": "Membership List",
+  "location_guess": "",
+  "notes": "Page numbers 16 and 17 show a handwritten membership list with names, addresses, and membership fees.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

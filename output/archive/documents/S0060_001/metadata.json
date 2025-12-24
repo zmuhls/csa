@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0060_001",
+  "source_images": [
+    "img_0349"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "map_or_diagram",
+  "subject": "Area map with highlighted boundary",
+  "location_guess": "",
+  "notes": "Map appears to be an old, folded document with a red boundary line and a yellow label at the top.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

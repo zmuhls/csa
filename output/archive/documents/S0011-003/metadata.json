@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0011-003",
+  "source_images": [
+    "img_0210"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Library and Educational Journal Records",
+  "location_guess": "",
+  "notes": "Page appears to be a catalog or index of various educational journals and publications, including their publication dates and locations.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

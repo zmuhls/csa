@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045_13",
+  "source_images": [
+    "img_0075"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "N.Y.S. Teachers Association Proceedings",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing educational methods and the influence of Edward A. Sheldon on pedagogy.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

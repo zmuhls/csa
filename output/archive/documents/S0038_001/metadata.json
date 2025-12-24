@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0038_001",
+  "source_images": [
+    "img_0297"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Education in Review: Growing Need for More School Facilities",
+  "location_guess": "",
+  "notes": "Photograph of a newspaper clipping titled 'Education in Review' highlighting a New York survey on the need for more school facilities.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

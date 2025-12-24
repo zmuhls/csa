@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0068_1",
+  "source_images": [
+    "img_0375"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Letter to the Board of Education regarding school district matters",
+  "location_guess": "Albany County, Union Free School District, Box 31/Folder 44",
+  "notes": "Document dated February 11, 1900, discussing school district operations and financial obligations.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

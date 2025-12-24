@@ -1,0 +1,21 @@
+{
+  "artifact_group_id": "S0052",
+  "source_images": [
+    "img_0159",
+    "img_0160",
+    "img_0161"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 3,
+  "item_type": "notecard",
+  "subject": "NYSTA Hutong Proceedings Bound Volume 1894-98",
+  "location_guess": "",
+  "notes": "Handwritten label on a notecard, likely part of a collection or archive. The text includes a reference number 'S293' and the title 'NYSTA Hutong Proceedings Bound Volume 1894-98'.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

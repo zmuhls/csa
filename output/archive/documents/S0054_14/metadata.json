@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0054_14",
+  "source_images": [
+    "img_0175"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "State Teachers Association Meeting Minutes",
+  "location_guess": "",
+  "notes": "Page from a meeting minutes document discussing educational topics and amendments.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

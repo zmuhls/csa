@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045_17",
+  "source_images": [
+    "img_0331"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Public Relations Project for Local Education Associations",
+  "location_guess": "National Education Association, Washington, D.C.",
+  "notes": "Published as part of the Centennial Action Program, 1951-1957.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0043-08",
+  "source_images": [
+    "img_0317"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Architectural Sketch of South Colonie Central School",
+  "location_guess": "Albany, New York",
+  "notes": "Page from a newspaper or magazine featuring a sketch of a proposed school building, labeled as 'The 'Country School of Tomorrow'.'",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

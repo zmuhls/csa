@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0065-7",
+  "source_images": [
+    "img_0360"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Letter from New York State Department of Public Instruction",
+  "location_guess": "Allegany County, Weisfield, Box 13, Folder 51",
+  "notes": "Document is a copy, dated February 23, 1904, regarding the organization of Union Free School District No. 1 in Wellsville.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

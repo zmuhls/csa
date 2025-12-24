@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0042",
+  "source_images": [
+    "img_0049"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "notecard",
+  "subject": "NYSTA History Proceedings Bound Volume 1900-03",
+  "location_guess": "",
+  "notes": "Label indicates a bound volume of NYSTA history proceedings from 1900-1903.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

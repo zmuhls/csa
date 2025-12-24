@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0021-007",
+  "source_images": [
+    "img_0246"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "State Teachers' Association High School Congress Schedule",
+  "location_guess": "",
+  "notes": "Page displays a schedule for a high school congress event, including dates, times, and topics for discussion.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

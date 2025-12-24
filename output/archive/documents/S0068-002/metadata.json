@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0068-002",
+  "source_images": [
+    "img_0376"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Notice of Special Public Meeting for Common School District",
+  "location_guess": "Albany, New York",
+  "notes": "Document appears to be a formal notice for a school district meeting, dated February 21, 1900. Visible text includes details about the meeting location and purpose.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

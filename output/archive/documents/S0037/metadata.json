@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0037",
+  "source_images": [
+    "img_0296"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Survey of Small Schools Still in Service",
+  "location_guess": "",
+  "notes": "Page from a report or publication dated October 1952, discussing the condition and service status of small schools.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

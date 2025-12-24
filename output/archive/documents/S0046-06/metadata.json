@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0046-06",
+  "source_images": [
+    "img_0098"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Historical text on education in colonial America",
+  "location_guess": "",
+  "notes": "Page 16 of a book discussing the development of education systems in colonial America, including Dutch and English influences.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045_22",
+  "source_images": [
+    "img_0335"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Biographical Information on Marian Mann",
+  "location_guess": "",
+  "notes": "Page appears to be part of a biographical or historical document detailing the life and achievements of Marian Mann, including her work with the National Teachers' Association and her contributions to education.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

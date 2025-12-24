@@ -9,7 +9,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-IMG_ROOT = Path('raw/imgs')
+IMG_ROOT = Path('raw/scans/img')
 OUT_CSV = Path('csv/images_inventory.csv')
 
 
@@ -109,6 +109,10 @@ class ImageRow:
     img_number: Optional[int]
     # Curation/LLM fields (placeholders)
     artifact_group_id: str
+    artifact_link_type: str  # session_default, visual_match, content_overlap, manual_curation
+    artifact_confidence: Optional[float]  # 0.0-1.0 confidence in grouping
+    needs_review: bool  # flag for human review queue
+    parent_artifact_id: str  # for hierarchical groupings (e.g., volume -> pages)
     item_title: str
     item_type: str
     subject: str
@@ -185,6 +189,10 @@ def main() -> None:
             seconds_since_prev=None,
             img_number=img_num,
             artifact_group_id='',
+            artifact_link_type='session_default',
+            artifact_confidence=None,
+            needs_review=False,
+            parent_artifact_id='',
             item_title='',
             item_type='',
             subject='',

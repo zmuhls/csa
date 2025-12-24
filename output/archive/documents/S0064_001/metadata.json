@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0064_001",
+  "source_images": [
+    "img_0353"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Letter from Dr. R.H. Book regarding religious instruction",
+  "location_guess": "Saugatuck, Michigan, Van Buren County",
+  "notes": "Document appears to be a letter dated 9-28-21, discussing religious instruction in schools. Visible text includes 'STATE OF MICHIGAN, COUNTY OF VAN BUREN' and mentions 'Dr. R.H. Book, Principal of the Saugatuck Valley Home for Orphans and Indigent Children'.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

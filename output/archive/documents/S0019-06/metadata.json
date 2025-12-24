@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0019-06",
+  "source_images": [
+    "img_0231"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "ledger_or_register",
+  "subject": "Handwritten ledger entries",
+  "location_guess": "",
+  "notes": "The visible text includes 'Minutes of the' on the right page, suggesting this is a record of meeting minutes.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0065",
+  "source_images": [
+    "img_0354"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Notice for Special School Meeting",
+  "location_guess": "Chenango County, NY",
+  "notes": "The document is a notice for a special school meeting held on June 1, 1915, in the Towns of Collyerville, Broome County, and Afton, Chenango County, NY. It includes handwritten annotations and signatures.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

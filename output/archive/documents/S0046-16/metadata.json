@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0046-16",
+  "source_images": [
+    "img_0108"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Discussion on Improving Common Schools",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing educational reforms, specifically focusing on common schools. The text mentions agricultural, mechanical, or religious schools and the need for legislative changes to improve the system.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

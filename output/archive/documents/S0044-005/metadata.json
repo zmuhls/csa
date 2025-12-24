@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0044-005",
+  "source_images": [
+    "img_0064"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Contents Page of Educational Association Proceedings",
+  "location_guess": "",
+  "notes": "Page lists contents of a historical educational association document, including addresses, reports, and committee discussions.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

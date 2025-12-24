@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0062",
+  "source_images": [
+    "img_0351"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "map_or_diagram",
+  "subject": "Town of North Hempstead School District 6 Map",
+  "location_guess": "North Hempstead, New York",
+  "notes": "Folded map showing streets and property lines within School District 6 of North Hempstead.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

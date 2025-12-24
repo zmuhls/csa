@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0021-10",
+  "source_images": [
+    "img_0249"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Fry's Geographies Textbook Series",
+  "location_guess": "",
+  "notes": "Page from a promotional or informational booklet for Fry's Geographies, a series of textbooks for common schools.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

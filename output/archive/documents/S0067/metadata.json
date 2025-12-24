@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0067",
+  "source_images": [
+    "img_0373"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "meeting_minutes",
+  "subject": "School District Meeting Minutes",
+  "location_guess": "Albany, New York",
+  "notes": "Document appears to be the first page of meeting minutes from March 10, 1947, for various school districts in Albany County.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

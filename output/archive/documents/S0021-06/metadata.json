@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0021-06",
+  "source_images": [
+    "img_0245"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Schedule for Educational Sections",
+  "location_guess": "",
+  "notes": "Page displays schedules for various educational sections including Grammar School, Child Study, Herbartian, Nature Study, and Primary sections, with dates and times for meetings.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

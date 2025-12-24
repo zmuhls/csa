@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0050_003",
+  "source_images": [
+    "img_0157"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "State Teachers Association",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing social and intellectual advancements, likely related to education or societal issues in New York.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

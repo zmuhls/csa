@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0049-30",
+  "source_images": [
+    "img_0154"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction document",
+  "location_guess": "",
+  "notes": "Page number 80, part of a formal document with structured text and a header indicating the Department of Public Instruction.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

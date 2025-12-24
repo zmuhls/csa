@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0046-15",
+  "source_images": [
+    "img_0107"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Educational Policy Paper",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing educational standards and teacher training.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

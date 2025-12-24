@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0048_007",
+  "source_images": [
+    "img_0120"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "1922 Department of Public Instruction Report",
+  "location_guess": "",
+  "notes": "Page from a historical report discussing school laws and educational reforms in 1922.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0046-13",
+  "source_images": [
+    "img_0105"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Educational Policy Discussion",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing educational practices and teacher compensation.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

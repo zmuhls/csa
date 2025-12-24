@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0041_001",
+  "source_images": [
+    "img_0311"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "School Room Shortage Report",
+  "location_guess": "",
+  "notes": "Photograph of a newspaper clipping discussing a shortage of school rooms in the U.S., citing federal funding and survey findings.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

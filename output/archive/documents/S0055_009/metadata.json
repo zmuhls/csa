@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0055_009",
+  "source_images": [
+    "img_0188"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Page from an educational or legislative text discussing school rights and responsibilities",
+  "location_guess": "",
+  "notes": "Page number 40 visible at top. Text discusses school rights, teacher salaries, and educational responsibilities in New York.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

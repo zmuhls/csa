@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0054_003",
+  "source_images": [
+    "img_0164"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction document",
+  "location_guess": "",
+  "notes": "Page number 66 visible at top. Text discusses public education and moral development.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0049_24",
+  "source_images": [
+    "img_0148"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction - State Teachers Association",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing the State Teachers Association, including its formation and activities.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

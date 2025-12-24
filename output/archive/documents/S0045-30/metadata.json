@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045-30",
+  "source_images": [
+    "img_0087"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Criticism of Public Schools",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing critiques of public education, focusing on skill deficiencies and societal changes.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0027_004",
+  "source_images": [
+    "img_0279"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "History of teacher certification in New York State",
+  "location_guess": "",
+  "notes": "Page from a historical report discussing the evolution of teacher certification standards in New York State, mentioning figures like Andrew S. Draper and the establishment of minimum standards.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

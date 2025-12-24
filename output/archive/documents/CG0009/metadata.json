@@ -1,0 +1,20 @@
+{
+  "artifact_group_id": "CG0009",
+  "source_images": [
+    "img_0339",
+    "img_0340"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 2,
+  "item_type": "photograph_of_display",
+  "subject": "Building Exterior",
+  "location_guess": "",
+  "notes": "Black and white photograph of a multi-story building with a paved walkway and landscaping.",
+  "average_confidence": 0.0,
+  "group_confidence": 1.0,
+  "link_types": [
+    "content_overlap"
+  ],
+  "confident_link_ratio": 1.0,
+  "is_research": false
+}

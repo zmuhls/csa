@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0034",
+  "source_images": [
+    "img_0016"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "New York State Teachers' Association Organization Details",
+  "location_guess": "Rochester, New York",
+  "notes": "Page from a pamphlet or brochure detailing the organization structure of the New York State Teachers' Association.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

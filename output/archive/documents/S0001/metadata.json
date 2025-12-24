@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0001",
+  "source_images": [
+    "img_0384"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Notice of Abuse of Power by NYC Board of Education",
+  "location_guess": "New York City",
+  "notes": "Photograph of a printed document warning about abuse of power by the NYC Board of Education, including contact information for legal assistance.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0019-005",
+  "source_images": [
+    "img_0230"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "ledger_or_register",
+  "subject": "Financial or Transaction Records",
+  "location_guess": "",
+  "notes": "The visible text includes handwritten entries, likely for financial or transactional purposes, with columns for dates, descriptions, and numerical values.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

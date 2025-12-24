@@ -1,0 +1,15 @@
+id,proposed_group,current_group,session_group,confidence,reason,group_size,subject
+img_0057,CG0002,S0043-015,S0043,0.505,low_confidence,2,Proceedings of the New York State Teachers' Association
+img_0059,CG0002,S0043-017,S0043,0.505,low_confidence,2,Proceedings of the New York State Teachers' Association
+img_0065,CG0003,S0044-07,S0044,0.475,low_confidence,2,Officers List for 1901-1902
+img_0068,CG0003,S0044_12,S0044,0.475,low_confidence,2,Officers 1902-1903
+img_0079,CG0004,S0045,S0045,0.507,low_confidence,2,Report of the Proceedings of the Thirty-Sixth Annual Session of the New York State Teachers' Association
+img_0092,CG0004,S0045,S0045,0.507,low_confidence,2,Report of the Proceedings of the Thirty-Seventh Annual Session of the New York State Teachers' Association
+img_0197,CG0007,S0005-0001,S0005,0.557,low_confidence,2,Total Public School Enrollments in New York State 1845-1945
+img_0198,CG0007,S0005,S0005,0.557,low_confidence,2,
+img_0224,CG0008,S0018,S0018,0.441,low_confidence,2,Map of New York and Brooklyn
+img_0225,CG0008,S0018,S0018,0.441,low_confidence,2,New York and Brooklyn Map
+img_0342,CG0010,S0057,S0057,0.412,low_confidence,2,Survey of Salary Schedule Provisions for Professional Personnel
+img_0343,CG0010,S0057-0057,S0057,0.412,low_confidence,2,Survey of Salary Schedule Provisions for Professional Personnel 1964-65
+img_0365,CG0012,S0065-12,S0065,0.581,low_confidence,2,"Meeting Minutes of November 16, 1895"
+img_0366,CG0012,S0065-13,S0065,0.581,low_confidence,2,Meeting Minutes of School Board

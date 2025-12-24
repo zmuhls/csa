@@ -3,123 +3,138 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
-This is a digital humanities archive containing historical materials documenting the Common School system of New York State (1800s-1900s), including handwritten documents, typed records, statistical charts, and administrative correspondence.
+
+Digital humanities archive for the Common School system of New York State (1800s-1900s). Contains handwritten documents, typed records, statistical charts, and administrative correspondence. Uses multimodal AI (Qwen VL Plus via OpenRouter) to transcribe, classify, and extract metadata.
 
 ## Development Commands
 
-### OCR Processing
+### Full Pipeline (in order)
 ```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Process all materials (Kheel + NYS + Images)
-python process_archive.py --collection all
-
-# Process Loose Images only (reads from csv/images_inventory.csv)
-python process_archive.py --collection images
-
-# Process specific PDF collections
-python process_archive.py --collection kheel
-python process_archive.py --collection nys
-```
-
-### Inventory Management
-```bash
-# Build/Update the master inventory of loose images
+# 1. Ingest images and build inventory
 python scripts/build_images_inventory.py
 
-# Generate thumbnails for inventory items
+# 2. Generate thumbnails for LLM labeling
 python scripts/generate_thumbnails.py
 
-# Prepare batch labeling requests for LLM
+# 3. Prepare LLM labeling requests
 python scripts/prepare_image_label_requests.py
+
+# 4. Run automated LLM labeling (uses OPENROUTER_KEY)
+python scripts/batch_label_images.py
+
+# 5. Merge labels into inventory
+python scripts/merge_image_labels.py
+
+# 6. Deduplicate inventory entries
+python scripts/dedupe_images_inventory.py
+
+# 7. Run OCR (resumes from where it left off)
+python process_archive.py --collection images
+
+# 8. Consolidate artifacts and generate manifest
+python scripts/consolidate_artifacts.py
+python scripts/generate_archive_manifest.py
+```
+
+### OCR Processing
+```bash
+python process_archive.py --collection all      # All collections
+python process_archive.py --collection images   # Loose images only
+python process_archive.py --collection kheel    # Kheel Center PDFs
+python process_archive.py --collection nys      # NYS Archives PDFs
 ```
 
 ## Architecture Overview
 
-### OCR Processing System
-The codebase implements an async OCR pipeline using Qwen VL Plus via OpenRouter:
-
-1. **`ocr.py`** - Core QwenVLOCR class
-   - Async processing with retry logic and exponential backoff
-   - Automatic PDF-to-image conversion at 300 DPI
-   - Specialized prompt selection for different document types
-   - Confidence scoring based on uncertainty markers ([?], [illegible])
-   - SHA256 checksum tracking for all processed files
-
-2. **`process_archive.py`** - Batch processing orchestrator
-   - **PDF Mode**: Handles Kheel Center and NYS Archives collections by path.
-   - **Image Mode**: Processes loose images by reading `csv/images_inventory.csv`.
-   - **Type Mapping**: Maps inventory `item_type` to OCR prompts (e.g., `letter` -> `handwritten`).
-   - Generates comprehensive JSON reports and tracks extraction metrics.
-
-3. **`scripts/build_images_inventory.py`** - Ingestion engine
-   - Scans `raw/imgs` for new assets.
-   - Calculates SHA256 for deduplication.
-   - Groups photos into "sessions" based on EXIF time deltas.
-   - Maintains `csv/images_inventory.csv` as the source of truth for loose images.
-
-### Data Model & Processing Flow
-
-1. **Ingestion**: 
-   - PDF scans are placed in `raw/scans/`.
-   - Loose images are placed in `raw/imgs/` and cataloged via `build_images_inventory.py`.
-2. **Classification**: 
-   - PDFs are classified by filename patterns.
-   - Images are classified via `item_type` field in the inventory (often populated via LLM labeling).
-3. **OCR Execution**: `process_archive.py` sends images to Qwen VL Plus with context-aware prompts.
-4. **Output**: Text transcriptions (.txt) and structural metadata (.json) are stored in `output/ocr/`.
-
-### Output Structure
+### Processing Pipeline
 ```
-output/ocr/
-├── text/           # OCR transcriptions (.txt)
-├── metadata/       # Processing metadata (.json)
-├── logs/           # Processing logs
-├── reports/        # Batch processing reports
-└── temp/           # Temporary PDF page images
+raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
+                   →  generate_thumbnails.py     →  derived/thumbs/
+                   →  prepare_image_label_requests.py → prompts/images_label_requests.jsonl
+                   →  batch_label_images.py      →  prompts/images_label_responses.jsonl
+                   →  merge_image_labels.py      →  csv/images_inventory_labeled.csv
+                   →  process_archive.py         →  output/ocr/text/, output/ocr/metadata/
+                   →  consolidate_artifacts.py   →  output/archive/documents/, output/archive/research/
+                   →  generate_archive_manifest.py → output/archive/manifest.json
 ```
 
-### Historical Document Considerations
+### Core Components
 
-The OCR prompts are specifically tuned for 19th century documents:
-- Preserves period spelling and abbreviations ("inst." for instant, "&c" for etc.)
-- Handles archaic terminology (selectmen, freeholders, trustees)
-- Marks uncertainty with [?] and illegible sections with [illegible]
-- Notes stamps, seals, and marginal annotations
-- Distinguishes between typed and handwritten sections in mixed documents
-- Preserves original formatting and line breaks
+1. **`ocr.py`** - QwenVLOCR class
+   - Async API calls with retry logic
+   - PDF-to-image at 300 DPI
+   - Document-type-specific prompts
+   - Confidence scoring via [?] and [illegible] markers
 
-## Material Inventory
+2. **`process_archive.py`** - Batch orchestrator
+   - Reads from `csv/images_inventory_labeled.csv`
+   - Maps `item_type` to OCR prompts (letter→handwritten, form→table_form, etc.)
+   - Resume capability: skips already-processed images
 
-### Raw Archives (`/raw`)
-- **Images** (`/raw/imgs`): 210 JPEG images of historical documents
-- **PDF Scans** (`/raw/scans`):
-  - Kheel Center: `Toward-Better-Schools.pdf`
-  - NYS Archives series: A4456, A4645, B0494, B0594
-  
-### Reference Data (`/csv`)
-- `LIST_common-schools.xlsx`: Master list for validation
-- `Selected Items (Albany).xlsx`: Albany district subset
+3. **`scripts/consolidate_artifacts.py`** - Post-OCR processing
+   - Groups outputs by `artifact_group_id`
+   - Merges sequential pages, culls duplicates (>85% text similarity)
+   - Routes research notes to `output/archive/research/`
 
-### Key Processing Challenges
-- Mixed handwritten and typed content
-- 19th century script and abbreviations
-- Faded ink and document damage
-- Tables and structured forms
-- Multiple document types requiring different OCR approaches
+### Key Data Files
+
+| File | Purpose |
+|------|---------|
+| `csv/images_inventory.csv` | Raw inventory from ingestion |
+| `csv/images_inventory_labeled.csv` | Inventory with LLM classifications |
+| `prompts/images_label_requests.jsonl` | LLM labeling requests |
+| `prompts/images_label_responses.jsonl` | LLM labeling responses |
+| `output/archive/manifest.json` | Final artifact catalog |
+| `DEVLOG.md` | Chronological development history |
+| `AGENTS.md` | Instructions for AI agents |
+
+### Item Type Vocabulary
+12 controlled types: `document_page`, `notecard`, `ledger_or_register`, `form`, `letter`, `pamphlet_or_brochure`, `report`, `meeting_minutes`, `map_or_diagram`, `photograph_of_display`, `envelope_or_folder`, `cover_or_title_page`, `blank_or_unreadable`
 
 ## API Configuration
 
-### Qwen VL Plus via OpenRouter
-- **Model**: `qwen/qwen-vl-plus`
-- **Endpoint**: `https://openrouter.ai/api/v1/chat/completions`
-- **Max tokens**: 4000 per request
-- **Temperature**: 0.1 for consistent OCR
-- **Retry strategy**: 3 attempts with exponential backoff
+- **Model**: `qwen/qwen-vl-plus` via OpenRouter
+- **Auth**: `OPENROUTER_KEY` in `.env`
+- **Settings**: 4000 max tokens, 0.1 temperature, 3 retries with exponential backoff
+- **Batch size**: 5 concurrent requests
 
-### Processing Metrics
-- Batch size: 5 documents concurrent
-- Image max size: 4000x4000px
-- PDF extraction: 300 DPI
-- Confidence calculation: Based on [?] and [illegible] marker frequency
+## Historical Document Handling
+
+OCR prompts preserve 19th century characteristics:
+- Period spelling and abbreviations ("inst." for instant, "&c" for etc.)
+- Archaic terms (selectmen, freeholders, trustees)
+- Uncertainty markers: [?] for unclear, [illegible] for unreadable
+- Annotations: [stamp: ...], [handwritten: ...], [different hand: ...]
+
+---
+
+## Current Work: OCR Pipeline Enhancement
+
+### In Progress
+<!-- Move items here when actively working on them -->
+
+### Backlog
+
+**Stage 2: Human-in-the-Loop**
+- Create `scripts/generate_review_queues.py` (hallucination detection, low-confidence flagging)
+- Create `csv/ocr_review_queue.csv` template
+- Create `scripts/apply_corrections.py` for correction ingestion
+- Document review workflow in CLAUDE.md
+
+**Stage 3: Multi-Model Ensemble**
+- Abstract OCR class for multiple backends in `ocr.py`
+- Add `qwen/qwen-vl-max` as secondary model via OpenRouter
+- Add Mistral OCR as tertiary model via OpenRouter
+- Create `scripts/ensemble_ocr.py` for comparative runs
+- Add consensus scoring to metadata schema
+- Test ensemble on 10 challenging documents
+
+### Done
+
+**Stage 1: Artifact Collation** (2024-12-24)
+- Added new columns to inventory CSV schema (artifact_link_type, artifact_confidence, needs_review, parent_artifact_id)
+- Created `scripts/refine_artifact_groups.py` for text-similarity-based grouping
+- Created `scripts/migrate_inventory_schema.py` for existing data migration
+- Updated `consolidate_artifacts.py` to handle different link types
+- Tested on sample session S0026 (19 items)
+- Generated `csv/artifact_review_queue.csv` with 14 items for review

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0011_001",
+  "source_images": [
+    "img_0208"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Meeting Notes for Teachers Advocate",
+  "location_guess": "",
+  "notes": "Page contains notes taken during a meeting regarding the Teachers Advocate publication, including details about subscription prices, content, and editorial changes.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

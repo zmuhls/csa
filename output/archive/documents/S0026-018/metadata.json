@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0026-018",
+  "source_images": [
+    "img_0274"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Advert for Artists' Materials and Pedagogy Society",
+  "location_guess": "New York State",
+  "notes": "Page from a publication featuring advertisements for art supplies and educational society information.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

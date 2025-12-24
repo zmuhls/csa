@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0044_006",
+  "source_images": [
+    "img_0322"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Community Schools Article",
+  "location_guess": "",
+  "notes": "Page appears to be from a publication titled 'The Broadcaster,' discussing community schools and related educational strategies.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

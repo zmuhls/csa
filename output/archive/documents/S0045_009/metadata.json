@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045_009",
+  "source_images": [
+    "img_0330"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Page 2 of a document from the Buffalo Teachers Federation, Inc.",
+  "location_guess": "",
+  "notes": "The document appears to be a formal letter or statement, discussing professional responsibilities and expectations for teachers, particularly in the context of classroom visits and professional development.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

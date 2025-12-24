@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0014",
+  "source_images": [
+    "img_0214"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Meeting Minutes of the U.S. Treasury",
+  "location_guess": "",
+  "notes": "Handwritten notes include names and numbers, possibly related to meeting attendees or financial records.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

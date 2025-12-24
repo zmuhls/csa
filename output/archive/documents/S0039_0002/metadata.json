@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0039_0002",
+  "source_images": [
+    "img_0300"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Newspaper article about school design",
+  "location_guess": "",
+  "notes": "Article titled 'Schools Must Be Patterned to Fit Broad Program, Retiring Expert Says' by Lavina Reddy, featuring a photo of Dr. William Wilson.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

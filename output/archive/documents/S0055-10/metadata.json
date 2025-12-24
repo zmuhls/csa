@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0055-10",
+  "source_images": [
+    "img_0189"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Educational Rights and Public School Management",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing educational rights and public school management, with visible text on pages 41 and 74.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

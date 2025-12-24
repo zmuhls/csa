@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0065-0065",
+  "source_images": [
+    "img_0361"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "School District Meeting Notice",
+  "location_guess": "Allegheny County, Pennsylvania",
+  "notes": "Page appears to be part of an archival folder labeled 'Box 3, Folder 51' with a date of October 12, 1899.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

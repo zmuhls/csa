@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0021-003",
+  "source_images": [
+    "img_0242"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "New York State Teachers Association Officers List",
+  "location_guess": "New York City",
+  "notes": "Page from a booklet or report listing officers of the New York State Teachers Association for the year 1896-1897.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

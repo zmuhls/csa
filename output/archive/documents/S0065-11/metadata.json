@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0065-11",
+  "source_images": [
+    "img_0364"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Meeting Minutes from November 26, 1879",
+  "location_guess": "Box 13, Folder C1",
+  "notes": "Document appears to be a typed page of meeting minutes from a historical town meeting, with visible header and footer text indicating its origin and context.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

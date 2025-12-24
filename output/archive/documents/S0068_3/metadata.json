@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0068_3",
+  "source_images": [
+    "img_0377"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "meeting_minutes",
+  "subject": "School Board Meeting Minutes",
+  "location_guess": "Union Free School, Colonie, Albany County",
+  "notes": "Document appears to be a page from meeting minutes of a school board meeting held on March 12, 1930, regarding the establishment of a district school.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0049-22",
+  "source_images": [
+    "img_0146"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Department of Public Instruction report on school organization",
+  "location_guess": "",
+  "notes": "Page from a historical document discussing school organization and teacher training.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

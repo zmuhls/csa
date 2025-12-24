@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0045_04",
+  "source_images": [
+    "img_0069"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "cover_or_title_page",
+  "subject": "NYSTA History Proceedings Bound Volume",
+  "location_guess": "",
+  "notes": "Label indicates 'S 293' and '1905-6', suggesting this is a bound volume from 1905-1906.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0027_002",
+  "source_images": [
+    "img_0277"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Report on School Construction and Education Funding",
+  "location_guess": "",
+  "notes": "Page from a report discussing school construction, funding, and educational initiatives in a state, mentioning specific figures and a campaign.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

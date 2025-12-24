@@ -33,13 +33,25 @@ def main():
         fieldnames = reader.fieldnames or []
         # Ensure curation fields exist
         for extra in [
-            'item_type', 'subject', 'location_guess', 'artifact_group_id', 'notes'
+            'artifact_group_id', 'artifact_link_type', 'artifact_confidence',
+            'needs_review', 'parent_artifact_id', 'item_type', 'subject',
+            'location_guess', 'notes'
         ]:
             if extra not in fieldnames:
                 fieldnames.append(extra)
         writer = csv.DictWriter(f_out, fieldnames=fieldnames)
         writer.writeheader()
         for row in reader:
+            # Set defaults for new artifact collation fields
+            if not row.get('artifact_link_type'):
+                row['artifact_link_type'] = 'session_default'
+            if not row.get('artifact_confidence'):
+                row['artifact_confidence'] = ''
+            if not row.get('needs_review'):
+                row['needs_review'] = 'False'
+            if not row.get('parent_artifact_id'):
+                row['parent_artifact_id'] = ''
+
             r = resp.get(row['id'])
             if r:
                 for k in ['item_type', 'subject', 'location_guess', 'artifact_group_id', 'notes']:

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0036-22",
+  "source_images": [
+    "img_0295"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Local Ability to Finance Schools",
+  "location_guess": "",
+  "notes": "Page from a report discussing school financing, including city school districts and other school districts.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

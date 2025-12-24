@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0043_6",
+  "source_images": [
+    "img_0316"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "New Menands School",
+  "location_guess": "Menands, New York",
+  "notes": "Page from a newspaper or publication featuring an article about the new Menands School, including a sketch of the school's design.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

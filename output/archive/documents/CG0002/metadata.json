@@ -1,0 +1,20 @@
+{
+  "artifact_group_id": "CG0002",
+  "source_images": [
+    "img_0057",
+    "img_0059"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 2,
+  "item_type": "cover_or_title_page",
+  "subject": "Proceedings of the New York State Teachers' Association",
+  "location_guess": "Thousand Islands, N.Y.",
+  "notes": "Page from a historical document, likely the title page of a publication.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.505,
+  "link_types": [
+    "content_overlap"
+  ],
+  "confident_link_ratio": 1.0,
+  "is_research": false
+}

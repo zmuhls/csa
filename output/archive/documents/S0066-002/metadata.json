@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0066-002",
+  "source_images": [
+    "img_0369"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "letter",
+  "subject": "Reply to inquiry about union-free school district papers",
+  "location_guess": "Albany, N.Y.",
+  "notes": "Letter dated April 20, 1911, from the New York State Education Department.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

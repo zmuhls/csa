@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0043-011",
+  "source_images": [
+    "img_0319"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "photograph_of_display",
+  "subject": "Children operating a school stove",
+  "location_guess": "McKownville Branch School",
+  "notes": "Image shows two boys, Arden Van Natten and Donald Lee, interacting with a vintage school stove. Text below the image references a common school activity.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

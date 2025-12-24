@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0014_003",
+  "source_images": [
+    "img_0215"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Handwritten Notes on Historical Topics",
+  "location_guess": "",
+  "notes": "The page contains handwritten notes referencing historical topics, including 'Cricketshank, Jones - Angyle, N.Y., 1831' and 'Periodical File - Proceedings - New Room'.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": true
+}

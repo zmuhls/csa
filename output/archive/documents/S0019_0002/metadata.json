@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0019_0002",
+  "source_images": [
+    "img_0227"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "ledger_or_register",
+  "subject": "List of Members with Financial Contributions",
+  "location_guess": "",
+  "notes": "Page numbers 12 and 13 show a ledger with handwritten entries listing names, dates, and amounts, likely for membership or donation records.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

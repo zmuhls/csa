@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0036-18",
+  "source_images": [
+    "img_0047"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Announcement for Teachers' Organization Membership",
+  "location_guess": "",
+  "notes": "Page from an announcement document dated 1927-28, discussing the importance of teachers joining an organization for professional development and advocacy.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

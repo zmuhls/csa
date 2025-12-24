@@ -3,7 +3,7 @@ import os
 import subprocess
 from pathlib import Path
 
-IMG_ROOT = Path('raw/imgs')
+IMG_ROOT = Path('raw/scans/img')
 OUT_ROOT = Path('derived/thumbs')
 MAX_DIM = 512  # pixels on the longest side
 

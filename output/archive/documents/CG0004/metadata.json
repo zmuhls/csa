@@ -1,0 +1,20 @@
+{
+  "artifact_group_id": "CG0004",
+  "source_images": [
+    "img_0079",
+    "img_0092"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 2,
+  "item_type": "cover_or_title_page",
+  "subject": "Report of the Proceedings of the Thirty-Sixth Annual Session of the New York State Teachers' Association",
+  "location_guess": "Saratoga, New York",
+  "notes": "Page appears to be the title page of a historical report from 1881.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.507,
+  "link_types": [
+    "content_overlap"
+  ],
+  "confident_link_ratio": 1.0,
+  "is_research": false
+}

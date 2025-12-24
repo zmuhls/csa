@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0007_0001",
+  "source_images": [
+    "img_0201"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "ledger_or_register",
+  "subject": "Cordova School Enrollment Records (1890-1945)",
+  "location_guess": "",
+  "notes": "Page appears to be a handwritten ledger or register listing enrollment numbers for Cordova School over a 55-year period, with entries for each year.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

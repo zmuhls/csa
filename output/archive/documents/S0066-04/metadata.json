@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0066-04",
+  "source_images": [
+    "img_0371"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "School District Meeting Notice",
+  "location_guess": "Allegany County, Maryland",
+  "notes": "Page appears to be a copy of a notice for a school district meeting, with visible text and folder markings indicating its archival context.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

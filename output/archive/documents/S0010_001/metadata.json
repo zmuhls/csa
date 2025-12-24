@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0010_001",
+  "source_images": [
+    "img_0207"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Official and Other Officials of the New York State Legislature 1945-1946",
+  "location_guess": "",
+  "notes": "The document appears to be a ledger or register listing officials with their terms and districts, handwritten on a yellow sheet of paper.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}

@@ -1,0 +1,19 @@
+{
+  "artifact_group_id": "S0068_005",
+  "source_images": [
+    "img_0379"
+  ],
+  "unique_pages": 0,
+  "duplicate_pages_culled": 1,
+  "item_type": "document_page",
+  "subject": "Meeting Minutes for Trustee Nominations",
+  "location_guess": "",
+  "notes": "Page appears to be from a meeting minutes document dated April 1, 1930, detailing nominations for trustee positions.",
+  "average_confidence": 0.0,
+  "group_confidence": 0.5,
+  "link_types": [
+    "session_default"
+  ],
+  "confident_link_ratio": 0.0,
+  "is_research": false
+}
