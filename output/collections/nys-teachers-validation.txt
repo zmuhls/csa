@@ -1,0 +1,37 @@
+# NYS Teachers Association Collection - Date Validation Report
+
+Total items: 83
+
+## Date Sources
+
+- undated: 28 (33.7%)
+- ocr_text: 21 (25.3%)
+- title_inferred: 21 (25.3%)
+- ocr_text_uncertain: 8 (9.6%)
+- undated_modern_documentation: 3 (3.6%)
+- title_explicit: 2 (2.4%)
+
+## Uncertain Dates: 29
+
+- [1923?] IMG_0615.jpeg: 
+- [1925?] IMG_0623.jpeg: 
+- [1845?] IMG_0625.jpeg: 
+- [1926?] IMG_0631.jpeg: 
+- [1927?] IMG_0654.jpeg: 
+- [1927?] IMG_0655.jpeg: 
+- [1900?] IMG_0665.jpeg: 
+- [1901?] IMG_0672.jpeg: 
+- [1901?] IMG_0674.jpeg: 
+- [1902?] IMG_0677.jpeg: 
+- [1890?] IMG_0689.jpeg: 
+- [1884?] IMG_0727.jpeg: 
+- [1885?] IMG_0728.jpeg: 
+- [1887?] IMG_0729.jpeg: 
+- [1888?] IMG_0739.jpeg: 
+- [1889?] IMG_0740.jpeg: 
+- [1890?] IMG_0741.jpeg: 
+- [1895?] IMG_0793.jpeg: 
+- [1922?] IMG_3326.jpeg: 
+- [1889?] IMG_3344.jpeg: 
+
+... and 9 more
