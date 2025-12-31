@@ -3,13 +3,13 @@
   "source_images": [
     "img_0341"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "cover_or_title_page",
   "subject": "Blank Document Cover",
   "location_guess": "",
   "notes": "The handwritten text 'Elin S. P. Hall' is visible on the lower right corner of the cover.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

@@ -3,13 +3,13 @@
   "source_images": [
     "img_0241"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "cover_or_title_page",
   "subject": "New York State Teachers' Association Meeting Program",
   "location_guess": "New York City, New York",
   "notes": "This is the cover page for the program of the fifty-second annual meeting of the New York State Teachers' Association and the eighth semi-annual meeting of the New York State Art Teachers' Association, held in 1897.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

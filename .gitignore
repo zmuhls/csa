@@ -63,10 +63,6 @@ output/ocr/reports/*
 # Development directories
 dev/
 
-# Large source files (excluded from git, store separately)
-raw/
-derived/
-
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints

@@ -6,13 +6,13 @@
     "img_0315",
     "img_0318"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 4,
+  "unique_pages": 4,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Contents Page of a Meeting Program",
   "location_guess": "",
   "notes": "Page lists contents of a general meeting with sessions on education topics, including child study and teacher training.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

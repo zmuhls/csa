@@ -3,13 +3,13 @@
   "source_images": [
     "img_0195"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Lease Agreement for Apartment",
   "location_guess": "Brooklyn, New York",
   "notes": "Page showing lease details including length of lease and rent amount.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.981,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

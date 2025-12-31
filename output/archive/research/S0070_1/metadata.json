@@ -3,13 +3,13 @@
   "source_images": [
     "img_0381"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "envelope_or_folder",
   "subject": "Boards of Cooperative Educational Services Establishment of Boards",
   "location_guess": "Box 13",
   "notes": "Folders are labeled with handwritten text and yellow sticky notes are visible on top.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.677,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

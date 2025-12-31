@@ -4,13 +4,13 @@
     "img_0017",
     "img_0025"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Table: Common School Enrollments (1845\u20131945) typed list",
   "location_guess": "New York State (enrollment table)",
   "notes": "Typewritten two-column list by year with hand annotations and check marks.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9764999999999999,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

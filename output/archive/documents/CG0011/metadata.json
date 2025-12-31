@@ -4,13 +4,13 @@
     "img_0347",
     "img_0348"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 1,
   "item_type": "map_or_diagram",
   "subject": "School District Map",
   "location_guess": "City of Johannesburg",
   "notes": "Folded blue paper map with white line drawings and text. A yellow tab with the number '11' is visible in the top right corner.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.822,
   "link_types": [
     "content_overlap"

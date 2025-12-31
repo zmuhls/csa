@@ -3,13 +3,13 @@
   "source_images": [
     "img_0010"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Announcement for 1926-27, The New York State Teachers' Association",
   "location_guess": "",
   "notes": "The document appears to be a page from an announcement or promotional material for the New York State Teachers' Association, highlighting its goals and benefits for teachers.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

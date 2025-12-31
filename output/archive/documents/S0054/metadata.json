@@ -6,13 +6,13 @@
     "img_0176",
     "img_0178"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 4,
+  "unique_pages": 4,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Department of Public Instruction document",
   "location_guess": "",
   "notes": "Page appears to be part of a formal report or meeting minutes, with visible header 'DEPARTMENT OF PUBLIC INSTRUCTION'.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

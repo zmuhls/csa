@@ -3,13 +3,13 @@
   "source_images": [
     "img_0362"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "School Tax Authorization Document",
   "location_guess": "Allegheny County, Pennsylvania",
   "notes": "Document appears to be a page from a school district tax authorization form, dated October 1859, related to W. H. Coates and the school district in Allegheny County.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

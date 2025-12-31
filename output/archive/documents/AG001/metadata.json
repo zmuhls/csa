@@ -6,13 +6,13 @@
     "img_0013",
     "img_0015"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 4,
+  "unique_pages": 4,
+  "duplicate_pages_culled": 0,
   "item_type": "map_or_diagram",
   "subject": "Chart: Total Public School Enrollments in New York State, 1845\u20131945",
   "location_guess": "New York State (scope of chart)",
   "notes": "Bar chart with categories (cities, villages under supt's, rural) and circular insets for 1895/1905/1915/1935/1945.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

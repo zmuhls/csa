@@ -5,13 +5,13 @@
     "img_0019",
     "img_0021"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 3,
+  "unique_pages": 3,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Handwritten notes: teacher preparation factors and percentages (red marginalia)",
   "location_guess": "Unknown; likely New York State context",
   "notes": "Pencil text with red marginal heading; mentions 'Teachers' and categories with % values.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

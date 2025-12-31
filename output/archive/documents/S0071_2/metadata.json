@@ -3,13 +3,13 @@
   "source_images": [
     "img_0383"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "List of documents related to Gates and Chili, Monroe County",
   "location_guess": "Box 13, Folder 10, Gates and Chili, Monroe County",
   "notes": "Page appears to be a list of documents or items related to a meeting or official record, with visible folder labels indicating its archival location.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

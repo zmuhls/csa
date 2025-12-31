@@ -3,8 +3,8 @@
   "source_images": [
     "img_0214"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Meeting Minutes of the U.S. Treasury",
   "location_guess": "",

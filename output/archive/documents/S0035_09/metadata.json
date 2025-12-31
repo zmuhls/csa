@@ -3,13 +3,13 @@
   "source_images": [
     "img_0031"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "List of High Schools and Principals",
   "location_guess": "",
   "notes": "Page appears to be part of an archival document listing high schools and their principals, possibly from a directory or report.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.981,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

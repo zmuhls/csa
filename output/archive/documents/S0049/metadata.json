@@ -6,13 +6,13 @@
     "img_0143",
     "img_0150"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 4,
+  "unique_pages": 3,
+  "duplicate_pages_culled": 1,
   "item_type": "document_page",
   "subject": "New York State Teachers' Association Program",
   "location_guess": "Saratoga Springs, NY",
   "notes": "Page from a program for the forty-fifth session of the New York State Teachers' Association held in Saratoga Springs in 1890.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9736666666666666,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

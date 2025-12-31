@@ -12,13 +12,13 @@
     "img_0033",
     "img_0035"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 10,
+  "unique_pages": 10,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Handwritten list titled 'Names' (research reference sheet)",
   "location_guess": "Research notes in folder",
   "notes": "White sheet with a list of names written in pencil; likely reference list related to NYS education figures.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.99,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

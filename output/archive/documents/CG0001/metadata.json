@@ -5,13 +5,13 @@
     "img_0002",
     "img_0289"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 3,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 2,
   "item_type": "document_page",
   "subject": "Report on School Growth and Enrollment Policies",
   "location_guess": "",
   "notes": "Page discussing policies for handling school growth, enrollment, and facility planning in the context of public and private schools.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9896666666666666,
   "group_confidence": 0.914,
   "link_types": [
     "content_overlap"

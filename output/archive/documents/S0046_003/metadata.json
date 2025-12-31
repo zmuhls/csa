@@ -3,13 +3,13 @@
   "source_images": [
     "img_0095"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "An Address by Hon. Warren Miller",
   "location_guess": "",
   "notes": "Page 13 of a historical document discussing education systems.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

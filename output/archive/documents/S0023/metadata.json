@@ -4,13 +4,13 @@
     "img_0252",
     "img_0253"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "envelope_or_folder",
   "subject": "Labeled envelope or folder",
   "location_guess": "",
   "notes": "Handwritten label '346-19' visible on the side of the item.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

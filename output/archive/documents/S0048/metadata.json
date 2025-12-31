@@ -5,13 +5,13 @@
     "img_0115",
     "img_0116"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 3,
+  "unique_pages": 3,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Proceedings of the New York State Teachers Association",
   "location_guess": "Elizabethtown, New York",
   "notes": "Page from the proceedings of the forty-second annual meeting of the New York State Teachers Association, held in Elizabethtown, NY, in 1857.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9933333333333333,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

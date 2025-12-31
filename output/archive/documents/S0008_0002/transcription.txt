@@ -1,0 +1,42 @@
+```
+1915
+State - 1.5%
+Normal - 19.8%
+College - 8.1%
+Binghamton - 31.8%
+Other - 4.9%
+
+1845
+? 
+
+1855
+State - .1%
+(East) Normal - .2%
+State - 30%
+Normal - 1.2%
+
+1865
+State - 4.0%
+Normal - 2.0%
+
+1875
+State - 8.9%
+Normal - 3.8%
+
+1885
+State - 3.5%
+Powell - 10.8%
+
+1895
+State - 5.4%
+Powell - 19.5%
+
+1905
+State - 7.2%
+College - 23.8%
+Ethan - 2.3%
+
+[stamp: circular]
+```
+
+Note: The question mark (?) in 1845 indicates an unknown value. The document appears to be a historical record of educational funding or enrollment percentages across different institutions and time periods. The "inst." abbreviation is not present in this document, but the transcription follows the provided rules for transcribing historical documents from the New York State Common School system.

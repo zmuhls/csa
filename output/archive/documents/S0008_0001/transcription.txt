@@ -1,0 +1,41 @@
+```
+[stamp: New York State Common School System]
+
+4.44
+4.71
+6.99
+11.82
+12.20
+13.62
+15.48
+17.38
+35.61
+
+2.57
+2.59
+4.12
+7.53
+7.46
+5.56
+8.93
+12.15
+17.68
+
+1840
+1850
+1860
+1870
+1880
+1890
+1900
+1910
+1920
+1930
+1935
+```
+
+Notes:
+- The handwritten text at the top appears to be a list of names or terms, possibly related to school officials or contributors, but is too unclear to transcribe accurately.
+- The numbers below seem to represent financial figures or records, likely related to school district finances or tax records.
+- The years at the bottom likely represent a timeline of school district records or significant events.
+- The [stamp: ...] notation indicates an official seal or mark from the New York State Common School System, though the specific details of the stamp are not legible.

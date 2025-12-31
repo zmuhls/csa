@@ -1,0 +1,141 @@
+```
+Rochester Schools, Herbert S. Weet, Supt.
+Ellwanger and Barry School, A. H. Downey, Principal
+Charlotte High School, Roy L. Butterfield, Principal
+Jefferson Jr. High School, A. C. Simmons, Principal
+Madison Jr. High School, Theodore A. Zornow, Principal
+Rochester Shop School, H. S. Bennett, Principal
+
+School No. 7, Miss M. VanIngen, Principal
+School No. 8, Miss E. O'Keeffe, Principal
+School No. 10, James T. Pitts, Principal
+School No. 11, Miss C. M. Wheeler, Principal
+School No. 13, R. A. Brown, Principal
+School No. 19, R. Park Parkhill, Principal
+School No. 20, M. M. Way, Principal
+School No. 21, Miss N. F. Hamilton, Principal
+School No. 26, S. P. Moulthrop, Principal
+School No. 34, Miss M. F. Logan, Principal
+School No. 37, Annie F. Kane, Principal
+School No. 40, Miss J. E. Arnott, Principal
+School No. 41, David W. Densmore, Principal
+
+School No. 44, Christine Lotz, Principal
+Rockville Center Schools, W. S. Covert, Supt.
+South Side High School, F. B. Watson, Principal
+South Side Jr. High School, F. B. Watson, Principal
+Clinton School, Morris School, Riverside School, C. L. Grimm, Principal
+Rome Schools, G. R. Staley, Supt.
+Thomas Street School, Harvey E. Alter, Principal
+Jay Street School, Lena Putnam, Principal
+Continuation School, E. A. Colton, Principal
+Willet School, C. T. Lanigan, Principal
+Columbus School
+East Rome School
+Gansvoort School
+
+Schenectady Schools, A. J. Stoddard, Supt.
+High School
+Brandywine Avenue School
+Central Park School
+Clinton School
+Fulton School
+Halsey School
+Hamilton School
+Horace Mann School
+Nott Terrace School
+Oneida School
+Park Place School
+Pleasant Valley School
+Woodlawn School
+Yates School
+Continuation School
+Medical Staff
+Edison School
+Elmer Avenue School
+Euclid Avenue School
+Franklin School
+Howe School
+Lincoln School
+McKinley School
+Nott Street School
+Riverside School
+Seward School
+
+Union School
+VanCorler School
+Washington Irving School
+Supervisory officers
+Adult elementary education teachers
+Solway Schools, C. A. Duvall, Supt.
+Intermediate School
+Junior-Senior High School
+Prospect School
+Boyd School
+
+Syracuse Schools, Percy M. Hughes, Supt.
+Charles Andrews School
+Washington Irving School
+Bellevue School
+Andrew Jackson School
+Fraser School
+Lincoln School
+Clinton School
+Gere School
+Elmwood School
+Grant School
+Madison School
+Crotan School
+Merrick School
+Porter School
+Putnam School
+Sumner School
+Seymour School
+Edward Smith School
+Garfield School
+George Washington School
+Salem Hyde School
+Montgomery School, Mabel Churchill, Principal
+
+Brighton School, Mabel A. DeVinney, Principal
+Prescott School, W. W. Wright, Principal
+Wm. Nottingham Junior-Senior High School, H. J. Bierce, Principal
+Delaware School, H. D. Richard, Principal
+Central High School, E. F. Conway, President
+
+Cleveland School, Minnie B. Parker, Principal
+Theodore Roosevelt Junior High School, C. S. Gibson, Principal
+Franklin School, F. R. Shingle, Principal
+Townsend School
+
+Troy Schools, Arvie Eldred, Supt.
+Schools Nos. 1, 3, 9, 10, 12, 13, 14, 15, 17, 18, 20
+S. Vincent's Asylum
+Orphan Asylum
+High School
+
+Dept. of Adult Education
+Utica Schools, John A. DeCamp, Supt.
+Roscoe Conkling, Albany
+John F. Hughes, South
+Horatio Seymour, Miller
+Roosevelt, Franklin
+Wetmore, Egbert Bagg
+Kernan, Part-time
+Sunset, Blecker
+Kemble, Brandegee
+Potter, Lansing
+Capron, Francis
+Union, Mary
+Lincoln, Washington
+
+Watertown Schools, E. C. Burdick, Supt.
+Academy Street School
+Arsenal Street School
+Boon Street School
+Cooper Street School
+Mullin Street School
+Pearl Street School
+State Street School
+Flower Avenue School
+```

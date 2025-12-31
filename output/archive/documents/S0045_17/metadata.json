@@ -3,13 +3,13 @@
   "source_images": [
     "img_0331"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Public Relations Project for Local Education Associations",
   "location_guess": "National Education Association, Washington, D.C.",
   "notes": "Published as part of the Centennial Action Program, 1951-1957.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

@@ -1,0 +1,52 @@
+The document is a ledger page from 1888, containing both typewritten and handwritten entries. Below is the transcription of all visible text:
+
+---
+
+**Page 28**
+
+[typed:] Members of N.F.D. T.A. / 1888.
+
+| Date       | Description                                  | Amount   |
+|------------|----------------------------------------------|----------|
+| July 6     | Cents 604 forwarded                          | 261.50   |
+|            | C. D. W. Dean, Broomport                     |          |
+|            | J. H. Stewart, Pine Grove                    |          |
+|            | Mrs. Billie F. Short, Nance Foels            | 1.00     |
+|            | Mrs. Cella C. Porter, Hornaroo               | 8.00     |
+|            | Miss Teller S. Holmsted, 215 P. Cor. Elmina  | 8.00     |
+|            | H. W. Minnaford, Rome                        | 1.00     |
+|            | M. B. Hanson, Bordentown, Steuben Co.        | 1.00     |
+|            | Miss Cora F. Beardley, Elmina                | 0.50     |
+|            | George Lawrence, Elmina                      | 0.50     |
+|            | Mrs. Nellie Henderson, Navarra               | 0.50     |
+|            | R. H. Newton, 105 E. 86th St., New York     | 1.00     |
+|            | N. F. J. Corve, Big Flats                    | 1.00     |
+|            |                                              | 270.00   |
+
+---
+
+**Page 29**
+
+[typed:] S. for Mrs. Beckett, Tras. N.Y.S. T.A. in Co. with
+
+[handwritten:] The Albany City Savings Institution, Albany
+
+| Date       | Description                                  | Amount   |
+|------------|----------------------------------------------|----------|
+| January 21 | By check on Nickel Banked in Br.             | 250.00   |
+| July 1     | Due to date                                  | 416.00   |
+| August 1   | Deposit from State Bank, chd.                | 300.00   |
+|            | Balance                                      | 554.16   |
+|            |                                              | 554.16   |
+
+---
+
+**Additional Notes:**
+
+- The left margin of the ledger contains a vertical column of numbers, likely page or reference numbers.
+- The page numbers "28" and "29" are handwritten at the top of each respective page.
+- The text "Members of N.F.D. T.A. / 1888." is handwritten at the top of page 28.
+- The phrase "S. for Mrs. Beckett, Tras. N.Y.S. T.A. in Co." is handwritten at the top of page 29.
+- The balance of "554.16" is handwritten at the bottom of page 29, both as a total and as a balance.
+
+This transcription preserves the original layout, including the distinction between typewritten and handwritten text, and maintains the structure of the ledger entries.

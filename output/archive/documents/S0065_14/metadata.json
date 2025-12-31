@@ -3,8 +3,8 @@
   "source_images": [
     "img_0367"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "meeting_minutes",
   "subject": "Allegany County Clerk's Minutes",
   "location_guess": "Allegany County, New York",

@@ -3,13 +3,13 @@
   "source_images": [
     "img_0359"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Letter from New York State Department of Public Instruction",
   "location_guess": "Allegany County, New York",
   "notes": "Document appears to be a letter regarding the organization of a school district, dated February 20, 1924, and stamped by the Department of Public Instruction.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.764,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

@@ -5,13 +5,13 @@
     "img_0238",
     "img_0239"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 3,
+  "unique_pages": 3,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Meeting Announcements for New York State Teachers' Associations",
   "location_guess": "Saratoga Springs, New York",
   "notes": "The document announces the 49th Annual Meeting of the New York State Teachers' Association and the 2nd Annual Meeting of the New York State Art Teachers' Association, held in 1894.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

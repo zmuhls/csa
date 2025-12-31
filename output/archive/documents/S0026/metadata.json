@@ -3,13 +3,13 @@
   "source_images": [
     "img_0259"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "National Summer School Advertisement",
   "location_guess": "Glens Falls, N.Y.",
   "notes": "Page from a publication advertising the National Summer School in Glens Falls, N.Y., beginning July 20th, 1897.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

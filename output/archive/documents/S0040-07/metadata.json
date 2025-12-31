@@ -3,13 +3,13 @@
   "source_images": [
     "img_0307"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "NEA News Article on School Housing",
   "location_guess": "Washington, D.C.",
   "notes": "Page from NEA News publication discussing school housing issues in America, dated November 1957.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

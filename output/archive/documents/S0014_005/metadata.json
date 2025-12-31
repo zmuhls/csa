@@ -3,13 +3,13 @@
   "source_images": [
     "img_0217"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "cover_or_title_page",
   "subject": "Address by David R. Scott for New York State Teachers' Association",
   "location_guess": "",
   "notes": "Document is encased in a protective plastic sleeve within a folder. Visible text includes 'Where Do We Stand: AN ADDRESS BEFORE THE New York State Teachers' Association... BY DAVID R. SCOTT, A.M.'",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

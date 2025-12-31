@@ -3,13 +3,13 @@
   "source_images": [
     "img_0007"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "cover_or_title_page",
   "subject": "Constitution and By-Laws of the School Association of Rensselaer County, N.Y. (cover)",
   "location_guess": "Troy, New York (printed on title)",
   "notes": "Printed pamphlet cover; date 1831; printer line: Tuttle, 225 River-Street. Placed on a file folder.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

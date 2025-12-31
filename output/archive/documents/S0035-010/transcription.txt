@@ -1,0 +1,82 @@
+```
+Castle High School, Howard S. Butler, Principal
+Cato High School, J. P. George, Principal
+Cattaraugus High School, H. R. Drake, Principal
+Cazenovia High School, L. L. Spanceake, Principal
+Central Islip High School, J. H. Meyer, Principal
+Central Rural School, Youngsville, Basil Č. Ames, Principal
+Central Square High School, Paul V. Moore, Principal
+Centreport High School, Mrs. Edith Losey, Principal
+Chadwicks High School, Mary Daly, Principal
+Chappa Central School, George H. Covey, Dist. Supt., Katonah
+Chatham Union School, A. Wesley Armitage, Principal
+Chaumont High School, E. C. Radley, Principal
+Chautauqua High School, George R. Raynor, Principal
+Cheektowago, Dist. No. 10, C. J. Fenner, Principal
+Chenango Forks High School, H. R. Osborn, Principal
+Chesbro Seminary, J. C. Malloch, Dist. Supt., Churchville
+Churchville High School, E. H. Burdick, Principal
+Clark Mills High School, Harold L. Corzett, Principal
+Cleveland Union School, Wm. D. Dowd, Principal
+Clifton Springs High School, D. B. Williams, Principal
+Clinton High School, Ray W. Smith, Principal
+Clyde High School, E. O. Lansing, Principal
+Clymer High School, H. E. Weaver, Principal
+Cohocton High School, C. W. Howland, Principal
+Coldspring Harbor Grammar School, J. J. Newell, Principal
+Collins Center High School, J. William Anderson, Principal
+Commock Grammar School, W. J. Schoonmaker, Principal
+Copiague Grammar School, James T. Brewster, Principal
+Corfu High School, Lisle D. Wodd, Principal
+Corinth Public Schools, Harris Crandall, Principal
+Cortland High School, F. E. Smith, Supt.
+Crotin Falls Graded School, E. C. Hocmer, Supt.
+Crotin-on-Hudson High School, George E. Graff, Principal
+Crown Point Central High School, Dr. Thomas J. Wagner, Principal
+Crown Point Central High School, F. F. Johnson, Principal
+Cuba High School, R. H. Miller, Principal
+Cuylerville Union School, R. J. McNulty, Principal
+Dannemora High School, C. B. Murray, Dist. Supt.
+Dayton Union School, Clifford A. Abbott, Principal
+Deer Park School, May Brennan Moore, Principal
+Deferiet Graded School, Leo P. Garvin, Principal
+Delavan High School, E. C. Hawley, Dist. Supt.
+Delmar Public School, Olin Bouck, Principal
+Deposit High School, A. A. Radley, Principal
+DeRuyter High School, W. M. Kniskern, Principal
+Dundee High School, F. G. Lyon, Supervising Principal
+East Bloomfield High School, Mrs. F. J. Appleton, Principal
+East Frankfort Union School, A. J. Rose, Supt.
+East Islip High School, L. D. York, Principal
+East Moriches Grammar School, Walter S. Hedrick, Principal
+East Patchogue Grammar School, Frank D. Mather, Principal
+East Pembroke High School, E. R. Fairbanks, Principal
+East Springfield Union School, Leon W. Hamilton, Principal
+East Worcester Union School, Arthur Bibbins, Principal
+Ebenizer High School, Stanley Butcher, Principal
+Eden High School, Sarah H. Cornish, Principal
+Elba High School, Pavilion High School, Jared L. Uphill, Dist. Supt.
+Elbridge Union School, C. M. Rice, Principal
+Eldred Union School, C. C. Pierce, Principal
+Elizabethtown High School, Stanley S. Kilkenney, Principal
+Ellenville Public Schools, E. C. Hocmer, Supt.
+Elwood Grammar School, Amelia Nienmeyer, Principal
+Erieville Union School, Donald Barker, Principal
+Essex High School, Wayne L. Lowe, Principal
+Evans Mills High School, E. G. Bill, Principal
+Fabius High School, Jay Wright, Principal
+Fair Haven High School, J. Clarence Decker, Supervising Principal
+Falconer Public Schools, R. D. Fish, Supervising Principal
+Farmham Public Schools, Vera M. Bluntz, Principal
+Favetteville High School, K. L. Rutherford, Principal
+Fillmore Union Free School, E. J. Brong, Principal
+Fonda High School, H. E. White, Principal
+Forestville High School, Charles A. Spangle, Principal
+Fort Ann High School, Harvey Hall, Principal
+Fort Ann Union School, Marjorie Meiklejohn, Dist. Supt., Whitehall
+Fort Covington High School, Harry J. Weir, Principal
+Fort Edward High School, Franklin Barber, Supervising Principal
+Fort Edward Union School No. 9, Susan K. Pender, Principal
+Franklinville High School, E. C. Hawley, Dist. Supt., Franklinville
+Freedom High School, E. C. Hawley, Dist. Supt., Franklinville
+```

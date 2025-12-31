@@ -3,13 +3,13 @@
   "source_images": [
     "img_0193"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Local Organization, Rochester, N.Y. Officers",
   "location_guess": "Rochester, New York",
   "notes": "Page appears to be from an organizational or meeting minutes document listing officers and committee members of a local organization in Rochester, N.Y.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

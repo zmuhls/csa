@@ -4,13 +4,13 @@
     "img_0365",
     "img_0366"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "meeting_minutes",
   "subject": "Meeting Minutes of November 16, 1895",
   "location_guess": "Wellesville, New York",
   "notes": "Page from a meeting minutes document, dated November 16, 1895, discussing the establishment of a school district and election of board members.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.581,
   "link_types": [
     "content_overlap"

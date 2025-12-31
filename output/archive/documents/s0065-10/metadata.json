@@ -3,13 +3,13 @@
   "source_images": [
     "img_0363"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Statement of Thomas M. Langworthy regarding district meetings",
   "location_guess": "New York, County of Allegany",
   "notes": "Document appears to be a sworn statement dated November 13, 1861, regarding school district meetings and voter qualifications.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

@@ -3,13 +3,13 @@
   "source_images": [
     "img_0113"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "cover_or_title_page",
   "subject": "New York State Teachers' Association Proceedings",
   "location_guess": "Elizabethtown",
   "notes": "Page appears to be the title page of a historical document from the 1887 meeting.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.643,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

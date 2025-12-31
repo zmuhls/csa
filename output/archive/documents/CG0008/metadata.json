@@ -4,13 +4,13 @@
     "img_0224",
     "img_0225"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "map_or_diagram",
   "subject": "Map of New York and Brooklyn",
   "location_guess": "Brooklyn, N.Y.",
   "notes": "This is the front page of a document featuring a map of New York and Brooklyn, associated with the New York State Teachers' Association's forty-ninth annual meeting in 1889.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9455,
   "group_confidence": 0.441,
   "link_types": [
     "content_overlap"

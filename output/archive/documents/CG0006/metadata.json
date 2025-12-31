@@ -4,13 +4,13 @@
     "img_0336",
     "img_0337"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "photograph_of_display",
   "subject": "Classroom Interior with Blackboard",
   "location_guess": "",
   "notes": "Photograph depicts a vintage classroom setting with a blackboard displaying ABCs and a math problem, wooden desks, and a teacher's desk. The image appears to be part of a sequence.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.7725,
   "group_confidence": 0.712,
   "link_types": [
     "content_overlap"

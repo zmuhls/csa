@@ -4,13 +4,13 @@
     "img_0065",
     "img_0068"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 2,
+  "unique_pages": 2,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Officers List for 1901-1902",
   "location_guess": "",
   "notes": "Page appears to be from an official record or directory listing officers and their roles for the year 1901-1902.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.475,
   "link_types": [
     "content_overlap"

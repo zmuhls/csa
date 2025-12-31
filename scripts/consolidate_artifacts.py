@@ -50,13 +50,21 @@ def load_inventory(skip_needs_review: bool = False) -> Dict[str, Dict]:
     return inventory
 
 
-def load_ocr_result(img_id: str) -> Tuple[str, Dict]:
+def load_ocr_result(img_id: str, inventory_row: Dict = None) -> Tuple[str, Dict]:
     """Load OCR text and metadata for an image."""
-    # Try different filename patterns
-    patterns = [
+    # Get actual filename from inventory if available
+    patterns = []
+
+    if inventory_row and inventory_row.get('filename'):
+        # Use actual filename without extension
+        actual_filename = Path(inventory_row['filename']).stem
+        patterns.append(f"{actual_filename}.txt")
+
+    # Fallback patterns based on img_id
+    patterns.extend([
         f"{img_id}.txt",
         f"{img_id.replace('img_', 'IMG_')}.txt",
-    ]
+    ])
 
     text = ""
     meta = {}
@@ -67,9 +75,7 @@ def load_ocr_result(img_id: str) -> Tuple[str, Dict]:
             text = text_path.read_text(encoding='utf-8')
             break
 
-    # Also check for files matching the original image filename
-    # The OCR might use the original filename stem
-
+    # Same for metadata
     meta_patterns = [p.replace('.txt', '.json') for p in patterns]
     for pattern in meta_patterns:
         meta_path = OCR_META_DIR / pattern
@@ -131,7 +137,8 @@ def consolidate_group(
     confidences = []
 
     for img_id in img_ids:
-        text, meta = load_ocr_result(img_id)
+        inventory_row = inventory.get(img_id, {})
+        text, meta = load_ocr_result(img_id, inventory_row)
         texts.append(text)
         metas.append(meta)
         if meta.get('confidence'):

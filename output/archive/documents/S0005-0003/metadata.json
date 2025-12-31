@@ -3,13 +3,13 @@
   "source_images": [
     "img_0199"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Total Public School Expenditures in New York State",
   "location_guess": "",
   "notes": "The document displays a bar graph of public school expenditures in New York State from 1845 to 1945, categorized by cities, villages (with 100 or more inhabitants), and rural areas. A note at the bottom states 'ESTIMATE, ACTUAL FIGURES NOT AVAILABLE'.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

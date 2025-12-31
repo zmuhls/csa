@@ -6,13 +6,13 @@
     "img_0045",
     "img_0046"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 4,
+  "unique_pages": 4,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "Typed excerpt: history of the New York State Teachers' Association (c. 19th century)",
   "location_guess": "New York State Teachers' Association history notes",
   "notes": "Typescript page with quotations and resolutions regarding forming a state convention and teacher licensing; clipped at top with a paperclip.",
-  "average_confidence": 0.0,
+  "average_confidence": 0.9780000000000001,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"

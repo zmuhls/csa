@@ -3,13 +3,13 @@
   "source_images": [
     "img_0258"
   ],
-  "unique_pages": 0,
-  "duplicate_pages_culled": 1,
+  "unique_pages": 1,
+  "duplicate_pages_culled": 0,
   "item_type": "document_page",
   "subject": "New York State Teachers Association Tools for Manual Training Schools",
   "location_guess": "New York, New York",
   "notes": "Page from a publication featuring advertisements for educational tools and supplies, including a manual training schools special discount.",
-  "average_confidence": 0.0,
+  "average_confidence": 1.0,
   "group_confidence": 0.5,
   "link_types": [
     "session_default"
