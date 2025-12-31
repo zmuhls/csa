@@ -197,15 +197,26 @@ def group_by_theme(items: List[dict]) -> Dict[str, List[dict]]:
     return filtered_themes
 
 
-def format_image_url(filename: str) -> str:
-    """Generate GitHub media CDN URL for image."""
+def format_thumbnail_url(filename: str) -> str:
+    """Generate GitHub media CDN URL for thumbnail."""
     if not filename:
         return ""
 
     # Remove any directory path, just get the filename
     base_filename = Path(filename).name
 
-    return f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/raw/scans/img/{base_filename}"
+    return f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/derived/thumbs/{base_filename}"
+
+
+def format_fullsize_url(filename: str) -> str:
+    """Generate GitHub blob URL for full-size image."""
+    if not filename:
+        return ""
+
+    # Remove any directory path, just get the filename
+    base_filename = Path(filename).name
+
+    return f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/raw/scans/img/{base_filename}"
 
 
 def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
@@ -223,9 +234,9 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
     else:
         date_str = ""
 
-    # Format image URL
-    img_url = format_image_url(filename)
-    blob_url = img_url.replace('media.githubusercontent.com/media', 'github.com').replace('/raw/', '/blob/')
+    # Format image URLs - thumbnail for display, full-size for link
+    thumb_url = format_thumbnail_url(filename)
+    fullsize_url = format_fullsize_url(filename)
 
     # Build markdown line
     parts = []
@@ -233,10 +244,10 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
     if date_str:
         parts.append(date_str)
 
-    if img_url:
+    if thumb_url and fullsize_url:
         # Use "Thumbnail: FILENAME" format for alt text
         base_filename = Path(filename).stem if filename else 'Unknown'
-        parts.append(f"[![Thumbnail: {base_filename}]({img_url})]({blob_url})")
+        parts.append(f"[![Thumbnail: {base_filename}]({thumb_url})]({fullsize_url})")
     else:
         parts.append(title)
 

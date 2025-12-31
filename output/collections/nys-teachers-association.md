@@ -16,107 +16,107 @@ Each bullet links directly to the digitized artifact within this repository.
 > Generated programmatically. See "Thematic Groupings" for another view.
 
 ### 1840s
-- [1845?] [![Thumbnail: IMG_0625](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0625.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0625.jpeg)
+- [1845?] [![Thumbnail: IMG_0625](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0625.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0625.jpeg)
 
 ### 1850s
-- [1855] [![Thumbnail: IMG_3337](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3337.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3337.jpeg)
+- [1855] [![Thumbnail: IMG_3337](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3337.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3337.jpeg)
 
 ### 1880s
-- [1881] [![Thumbnail: IMG_0694](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0694.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0694.jpeg) — Saratoga, New York
-- [1882] [![Thumbnail: IMG_0707](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0707.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0707.jpeg) — Yonkers, New York
-- [1884?] [![Thumbnail: IMG_0727](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0727.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0727.jpeg) — Baldwin Street, Elmira, N.Y.
-- [1885?] [![Thumbnail: IMG_0728](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0728.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0728.jpeg)
-- [1887?] [![Thumbnail: IMG_0729](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0729.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0729.jpeg) — Elizabethtown
-- [1887] [![Thumbnail: IMG_0730](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0730.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0730.jpeg) — Elizabethtown, New York
-- [1888?] [![Thumbnail: IMG_0739](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0739.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0739.jpeg) — Watkins, 1888
-- [1889?] [![Thumbnail: IMG_0740](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0740.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0740.jpeg) — Brooklyn, 1889
-- [1889?] [![Thumbnail: IMG_3344](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3344.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3344.jpeg) — Brooklyn, N.Y.
-- [1889?] [![Thumbnail: IMG_3345](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3345.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3345.jpeg) — Brooklyn, N.Y.
+- [1881] [![Thumbnail: IMG_0694](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0694.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0694.jpeg) — Saratoga, New York
+- [1882] [![Thumbnail: IMG_0707](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0707.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0707.jpeg) — Yonkers, New York
+- [1884?] [![Thumbnail: IMG_0727](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0727.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0727.jpeg) — Baldwin Street, Elmira, N.Y.
+- [1885?] [![Thumbnail: IMG_0728](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0728.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0728.jpeg)
+- [1887?] [![Thumbnail: IMG_0729](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0729.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0729.jpeg) — Elizabethtown
+- [1887] [![Thumbnail: IMG_0730](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0730.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0730.jpeg) — Elizabethtown, New York
+- [1888?] [![Thumbnail: IMG_0739](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0739.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0739.jpeg) — Watkins, 1888
+- [1889?] [![Thumbnail: IMG_0740](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0740.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0740.jpeg) — Brooklyn, 1889
+- [1889?] [![Thumbnail: IMG_3344](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3344.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3344.jpeg) — Brooklyn, N.Y.
+- [1889?] [![Thumbnail: IMG_3345](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3345.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3345.jpeg) — Brooklyn, N.Y.
 
 ### 1890s
-- [1890?] [![Thumbnail: IMG_0689](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0689.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0689.jpeg)
-- [1890?] [![Thumbnail: IMG_0741](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0741.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0741.jpeg) — Saratoga Springs, NY
-- [1891] [![Thumbnail: IMG_0774](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0774.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0774.jpeg) — Saratoga Springs, N.Y.
-- [1892] [![Thumbnail: IMG_3358](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3358.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3358.jpeg)
-- [1894] [![Thumbnail: IMG_0776](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0776.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0776.jpeg) — Saratoga Springs, N.Y.
-- [1894?] [![Thumbnail: IMG_3357](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3357.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3357.jpeg) — Saratoga Springs, New York
-- [1894?] [![Thumbnail: IMG_3359](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3359.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3359.jpeg)
-- [1895] [![Thumbnail: IMG_0792](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0792.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0792.jpeg) — Syracuse, New York
-- [1895?] [![Thumbnail: IMG_0793](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0793.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0793.jpeg)
-- [1896] [![Thumbnail: IMG_3363](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3363.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3363.jpeg) — New York City
-- [1897] [![Thumbnail: IMG_0795](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0795.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0795.jpeg) — Rochester, N.Y. and New York City
-- [1897] [![Thumbnail: IMG_3362](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3362.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3362.jpeg) — New York City, New York
-- [1897] [![Thumbnail: IMG_3374](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3374.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3374.jpeg) — New York City, New York
-- [1897?] [![Thumbnail: IMG_3375](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3375.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3375.jpeg)
-- [1897?] [![Thumbnail: IMG_3390](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3390.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3390.jpeg)
-- [1897?] [![Thumbnail: IMG_3395](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3395.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3395.jpeg) — New York City
-- [1898] [![Thumbnail: IMG_0809](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0809.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0809.jpeg) — Rochester, N.Y.
+- [1890?] [![Thumbnail: IMG_0689](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0689.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0689.jpeg)
+- [1890?] [![Thumbnail: IMG_0741](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0741.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0741.jpeg) — Saratoga Springs, NY
+- [1891] [![Thumbnail: IMG_0774](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0774.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0774.jpeg) — Saratoga Springs, N.Y.
+- [1892] [![Thumbnail: IMG_3358](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3358.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3358.jpeg)
+- [1894] [![Thumbnail: IMG_0776](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0776.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0776.jpeg) — Saratoga Springs, N.Y.
+- [1894?] [![Thumbnail: IMG_3357](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3357.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3357.jpeg) — Saratoga Springs, New York
+- [1894?] [![Thumbnail: IMG_3359](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3359.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3359.jpeg)
+- [1895] [![Thumbnail: IMG_0792](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0792.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0792.jpeg) — Syracuse, New York
+- [1895?] [![Thumbnail: IMG_0793](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0793.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0793.jpeg)
+- [1896] [![Thumbnail: IMG_3363](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3363.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3363.jpeg) — New York City
+- [1897] [![Thumbnail: IMG_0795](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0795.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0795.jpeg) — Rochester, N.Y. and New York City
+- [1897] [![Thumbnail: IMG_3362](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3362.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3362.jpeg) — New York City, New York
+- [1897] [![Thumbnail: IMG_3374](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3374.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3374.jpeg) — New York City, New York
+- [1897?] [![Thumbnail: IMG_3375](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3375.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3375.jpeg)
+- [1897?] [![Thumbnail: IMG_3390](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3390.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3390.jpeg)
+- [1897?] [![Thumbnail: IMG_3395](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3395.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3395.jpeg) — New York City
+- [1898] [![Thumbnail: IMG_0809](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0809.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0809.jpeg) — Rochester, N.Y.
 
 ### 1900s
-- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0665.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0665.jpeg)
-- [1900] [![Thumbnail: IMG_0671](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0671.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0671.jpeg) — Thousand Islands, N.Y.
-- [1900?] [![Thumbnail: IMG_3386](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3386.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3386.jpeg) — New York, N.Y.
-- [1901?] [![Thumbnail: IMG_0672](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0672.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0672.jpeg) — Buffalo, New York
-- [1901] [![Thumbnail: IMG_0673](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0673.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0673.jpeg) — Buffalo, N.Y.
-- [1901?] [![Thumbnail: IMG_0674](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0674.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0674.jpeg) — Buffalo, New York
-- [1901] [![Thumbnail: IMG_0675](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0675.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0675.jpeg) — Buffalo, N.Y.
-- [1901] [![Thumbnail: IMG_0676](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0676.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0676.jpeg) — Buffalo, New York
-- [1902?] [![Thumbnail: IMG_0677](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0677.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0677.jpeg) — Saratoga, New York
-- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0683.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0683.jpeg)
-- [1905] [![Thumbnail: IMG_0684](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0684.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0684.jpeg) — Syracuse, New York
-- [1906] [![Thumbnail: IMG_0692](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0692.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0692.jpeg) — Syracuse
+- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0665.jpeg)
+- [1900] [![Thumbnail: IMG_0671](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0671.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0671.jpeg) — Thousand Islands, N.Y.
+- [1900?] [![Thumbnail: IMG_3386](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3386.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3386.jpeg) — New York, N.Y.
+- [1901?] [![Thumbnail: IMG_0672](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0672.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0672.jpeg) — Buffalo, New York
+- [1901] [![Thumbnail: IMG_0673](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0673.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0673.jpeg) — Buffalo, N.Y.
+- [1901?] [![Thumbnail: IMG_0674](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0674.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0674.jpeg) — Buffalo, New York
+- [1901] [![Thumbnail: IMG_0675](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0675.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0675.jpeg) — Buffalo, N.Y.
+- [1901] [![Thumbnail: IMG_0676](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0676.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0676.jpeg) — Buffalo, New York
+- [1902?] [![Thumbnail: IMG_0677](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0677.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0677.jpeg) — Saratoga, New York
+- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0683.jpeg)
+- [1905] [![Thumbnail: IMG_0684](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0684.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0684.jpeg) — Syracuse, New York
+- [1906] [![Thumbnail: IMG_0692](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0692.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0692.jpeg) — Syracuse
 
 ### 1910s
-- [1911?] [![Thumbnail: IMG_3388](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3388.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3388.jpeg) — New York, New York
-- [1911?] [![Thumbnail: IMG_3394](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3394.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3394.jpeg)
+- [1911?] [![Thumbnail: IMG_3388](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3388.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3388.jpeg) — New York, New York
+- [1911?] [![Thumbnail: IMG_3394](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3394.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3394.jpeg)
 
 ### 1920s
-- [1922?] [![Thumbnail: IMG_3326](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3326.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3326.jpeg)
-- [1923?] [![Thumbnail: IMG_0615](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0615.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0615.jpeg)
-- [1925?] [![Thumbnail: IMG_0623](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0623.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0623.jpeg)
-- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0631.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0631.jpeg)
-- [1927] [![Thumbnail: IMG_0635](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0635.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0635.jpeg)
-- [1927?] [![Thumbnail: IMG_0654](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0654.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0654.jpeg) — Utica (event), Albany (publisher)
-- [1927?] [![Thumbnail: IMG_0655](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0655.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0655.jpeg) — New York State Teachers' Association history notes
+- [1922?] [![Thumbnail: IMG_3326](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3326.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3326.jpeg)
+- [1923?] [![Thumbnail: IMG_0615](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0615.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0615.jpeg)
+- [1925?] [![Thumbnail: IMG_0623](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0623.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0623.jpeg)
+- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0631.jpeg)
+- [1927] [![Thumbnail: IMG_0635](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0635.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0635.jpeg)
+- [1927?] [![Thumbnail: IMG_0654](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0654.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0654.jpeg) — Utica (event), Albany (publisher)
+- [1927?] [![Thumbnail: IMG_0655](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0655.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0655.jpeg) — New York State Teachers' Association history notes
 
 ### 1940s
-- [1941] [![Thumbnail: IMG_0619](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0619.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0619.jpeg)
+- [1941] [![Thumbnail: IMG_0619](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0619.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0619.jpeg)
 
 ### 2000s
-- [2000] [![Thumbnail: IMG_3397](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3397.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3397.jpeg) — New York City, New York
+- [2000] [![Thumbnail: IMG_3397](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3397.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3397.jpeg) — New York City, New York
 
 ### Undated
-- [![Thumbnail: IMG_0621](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0621.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0621.jpeg)
-- [![Thumbnail: IMG_0627](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0627.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0627.jpeg) — Rochester, New York
-- [![Thumbnail: IMG_0629](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0629.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0629.jpeg)
-- [![Thumbnail: IMG_0633](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0633.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0633.jpeg)
-- [![Thumbnail: IMG_0638](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0638.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0638.jpeg) — NYS Teachers Association publications overview
-- [![Thumbnail: IMG_0640](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0640.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0640.jpeg) — NYS Teachers Association publications overview
-- [![Thumbnail: IMG_0649](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0649.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0649.jpeg) — NYS Teachers Association summary sheet
-- [![Thumbnail: IMG_0662](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0662.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0662.jpeg)
-- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0663.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0663.jpeg)
-- [![Thumbnail: IMG_0680](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0680.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0680.jpeg) — Cliff Haven, New York
-- [![Thumbnail: IMG_0681](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0681.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0681.jpeg)
-- [![Thumbnail: IMG_0685](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0685.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0685.jpeg)
-- [![Thumbnail: IMG_0726](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0726.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0726.jpeg) — Fort William Henry Hotel, Fort Edward, N.Y.
-- [![Thumbnail: IMG_0771](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0771.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0771.jpeg)
-- [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0775.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0775.jpeg)
-- [![Thumbnail: IMG_3338](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3338.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3338.jpeg)
-- [![Thumbnail: IMG_3364](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3364.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3364.jpeg)
-- [![Thumbnail: IMG_3376](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3376.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3376.jpeg) — New York, N.Y.
-- [![Thumbnail: IMG_3378](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3378.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3378.jpeg)
-- [![Thumbnail: IMG_3379](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3379.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3379.jpeg) — New York, New York
-- [![Thumbnail: IMG_3381](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3381.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3381.jpeg) — New York, New York
-- [![Thumbnail: IMG_3382](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3382.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3382.jpeg) — New York, N.Y.
-- [![Thumbnail: IMG_3384](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3384.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3384.jpeg)
-- [![Thumbnail: IMG_3385](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3385.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3385.jpeg) — New York State
-- [![Thumbnail: IMG_3387](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3387.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3387.jpeg) — New York
-- [![Thumbnail: IMG_3389](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3389.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3389.jpeg)
-- [![Thumbnail: IMG_3391](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3391.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3391.jpeg) — New York, New York
-- [![Thumbnail: IMG_3392](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3392.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3392.jpeg)
-- [![Thumbnail: IMG_3393](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3393.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3393.jpeg)
-- [![Thumbnail: IMG_3425](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3425.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3425.jpeg)
-- [![Thumbnail: IMG_3491](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3491.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3491.jpeg)
+- [![Thumbnail: IMG_0621](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0621.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0621.jpeg)
+- [![Thumbnail: IMG_0627](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0627.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0627.jpeg) — Rochester, New York
+- [![Thumbnail: IMG_0629](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0629.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0629.jpeg)
+- [![Thumbnail: IMG_0633](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0633.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0633.jpeg)
+- [![Thumbnail: IMG_0638](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0638.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0638.jpeg) — NYS Teachers Association publications overview
+- [![Thumbnail: IMG_0640](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0640.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0640.jpeg) — NYS Teachers Association publications overview
+- [![Thumbnail: IMG_0649](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0649.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0649.jpeg) — NYS Teachers Association summary sheet
+- [![Thumbnail: IMG_0662](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0662.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0662.jpeg)
+- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0663.jpeg)
+- [![Thumbnail: IMG_0680](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0680.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0680.jpeg) — Cliff Haven, New York
+- [![Thumbnail: IMG_0681](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0681.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0681.jpeg)
+- [![Thumbnail: IMG_0685](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0685.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0685.jpeg)
+- [![Thumbnail: IMG_0726](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0726.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0726.jpeg) — Fort William Henry Hotel, Fort Edward, N.Y.
+- [![Thumbnail: IMG_0771](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0771.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0771.jpeg)
+- [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0775.jpeg)
+- [![Thumbnail: IMG_3338](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3338.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3338.jpeg)
+- [![Thumbnail: IMG_3364](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3364.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3364.jpeg)
+- [![Thumbnail: IMG_3376](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3376.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3376.jpeg) — New York, N.Y.
+- [![Thumbnail: IMG_3378](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3378.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3378.jpeg)
+- [![Thumbnail: IMG_3379](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3379.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3379.jpeg) — New York, New York
+- [![Thumbnail: IMG_3381](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3381.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3381.jpeg) — New York, New York
+- [![Thumbnail: IMG_3382](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3382.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3382.jpeg) — New York, N.Y.
+- [![Thumbnail: IMG_3384](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3384.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3384.jpeg)
+- [![Thumbnail: IMG_3385](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3385.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3385.jpeg) — New York State
+- [![Thumbnail: IMG_3387](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3387.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3387.jpeg) — New York
+- [![Thumbnail: IMG_3389](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3389.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3389.jpeg)
+- [![Thumbnail: IMG_3391](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3391.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3391.jpeg) — New York, New York
+- [![Thumbnail: IMG_3392](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3392.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3392.jpeg)
+- [![Thumbnail: IMG_3393](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3393.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3393.jpeg)
+- [![Thumbnail: IMG_3425](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3425.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3425.jpeg)
+- [![Thumbnail: IMG_3491](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3491.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3491.jpeg)
 
 ---
 
@@ -126,83 +126,83 @@ Each bullet links directly to the digitized artifact within this repository.
 
 ### Annual Meetings & Proceedings
 - (CG0002) Proceedings of the New York State Teachers' Association
-  - [1900] [![Thumbnail: IMG_0671](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0671.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0671.jpeg) — Thousand Islands, N.Y.
-  - [1901] [![Thumbnail: IMG_0673](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0673.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0673.jpeg) — Buffalo, N.Y.
+  - [1900] [![Thumbnail: IMG_0671](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0671.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0671.jpeg) — Thousand Islands, N.Y.
+  - [1901] [![Thumbnail: IMG_0673](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0673.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0673.jpeg) — Buffalo, N.Y.
 - (CG0004) Report of the Proceedings of the Thirty-Sixth Annual Session of the New York State Teachers' Association
-  - [1881] [![Thumbnail: IMG_0694](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0694.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0694.jpeg) — Saratoga, New York
-  - [1882] [![Thumbnail: IMG_0707](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0707.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0707.jpeg) — Yonkers, New York
-- [1922?] [![Thumbnail: IMG_3326](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3326.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3326.jpeg) (S0009_0001)
-- [![Thumbnail: IMG_3338](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3338.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3338.jpeg) (S0015)
-- [1894?] [![Thumbnail: IMG_3357](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3357.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3357.jpeg) — Saratoga Springs, New York (S0020)
-- [![Thumbnail: IMG_3364](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3364.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3364.jpeg) (S0021)
-- [1897] [![Thumbnail: IMG_3362](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3362.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3362.jpeg) — New York City, New York (S0021_002)
-- [1897?] [![Thumbnail: IMG_3375](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3375.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3375.jpeg) (S0024_1)
-- [1897?] [![Thumbnail: IMG_3390](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3390.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3390.jpeg) (S0026-0012)
-- [1897?] [![Thumbnail: IMG_3395](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3395.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3395.jpeg) — New York City (S0026-17)
-- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0631.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0631.jpeg) (S0034-005)
-- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0663.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0663.jpeg) (S0042)
-- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0665.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0665.jpeg) (S0043-002)
-- [1901?] [![Thumbnail: IMG_0672](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0672.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0672.jpeg) — Buffalo, New York (S0043-016)
+  - [1881] [![Thumbnail: IMG_0694](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0694.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0694.jpeg) — Saratoga, New York
+  - [1882] [![Thumbnail: IMG_0707](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0707.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0707.jpeg) — Yonkers, New York
+- [1922?] [![Thumbnail: IMG_3326](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3326.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3326.jpeg) (S0009_0001)
+- [![Thumbnail: IMG_3338](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3338.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3338.jpeg) (S0015)
+- [1894?] [![Thumbnail: IMG_3357](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3357.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3357.jpeg) — Saratoga Springs, New York (S0020)
+- [![Thumbnail: IMG_3364](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3364.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3364.jpeg) (S0021)
+- [1897] [![Thumbnail: IMG_3362](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3362.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3362.jpeg) — New York City, New York (S0021_002)
+- [1897?] [![Thumbnail: IMG_3375](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3375.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3375.jpeg) (S0024_1)
+- [1897?] [![Thumbnail: IMG_3390](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3390.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3390.jpeg) (S0026-0012)
+- [1897?] [![Thumbnail: IMG_3395](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3395.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3395.jpeg) — New York City (S0026-17)
+- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0631.jpeg) (S0034-005)
+- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0663.jpeg) (S0042)
+- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0665.jpeg) (S0043-002)
+- [1901?] [![Thumbnail: IMG_0672](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0672.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0672.jpeg) — Buffalo, New York (S0043-016)
 - (S0044) Proceedings of the New York State Teachers' Association
-  - [1901] [![Thumbnail: IMG_0675](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0675.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0675.jpeg) — Buffalo, N.Y.
-  - [![Thumbnail: IMG_0681](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0681.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0681.jpeg)
-- [![Thumbnail: IMG_0680](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0680.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0680.jpeg) — Cliff Haven, New York (S0044-010)
-- [1902?] [![Thumbnail: IMG_0677](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0677.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0677.jpeg) — Saratoga, New York (S0044_004)
+  - [1901] [![Thumbnail: IMG_0675](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0675.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0675.jpeg) — Buffalo, N.Y.
+  - [![Thumbnail: IMG_0681](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0681.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0681.jpeg)
+- [![Thumbnail: IMG_0680](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0680.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0680.jpeg) — Cliff Haven, New York (S0044-010)
+- [1902?] [![Thumbnail: IMG_0677](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0677.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0677.jpeg) — Saratoga, New York (S0044_004)
 - (S0045) Proceedings of the New York State Teachers' Association
-  - [1905] [![Thumbnail: IMG_0684](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0684.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0684.jpeg) — Syracuse, New York
-  - [1906] [![Thumbnail: IMG_0692](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0692.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0692.jpeg) — Syracuse
-  - [![Thumbnail: IMG_0685](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0685.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0685.jpeg)
-- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0683.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0683.jpeg) (S0045_04)
-- [1890?] [![Thumbnail: IMG_0689](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0689.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0689.jpeg) (S0045_13)
-- [![Thumbnail: IMG_0726](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0726.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0726.jpeg) — Fort William Henry Hotel, Fort Edward, N.Y. (S0046-18)
-- [1884?] [![Thumbnail: IMG_0727](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0727.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0727.jpeg) — Baldwin Street, Elmira, N.Y. (S0046-19)
-- [1885?] [![Thumbnail: IMG_0728](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0728.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0728.jpeg) (S0047)
-- [1887?] [![Thumbnail: IMG_0729](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0729.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0729.jpeg) — Elizabethtown (S0047-002)
-- [1887] [![Thumbnail: IMG_0730](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0730.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0730.jpeg) — Elizabethtown, New York (S0048)
-- [1891] [![Thumbnail: IMG_0774](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0774.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0774.jpeg) — Saratoga Springs, N.Y. (S0051)
+  - [1905] [![Thumbnail: IMG_0684](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0684.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0684.jpeg) — Syracuse, New York
+  - [1906] [![Thumbnail: IMG_0692](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0692.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0692.jpeg) — Syracuse
+  - [![Thumbnail: IMG_0685](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0685.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0685.jpeg)
+- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0683.jpeg) (S0045_04)
+- [1890?] [![Thumbnail: IMG_0689](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0689.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0689.jpeg) (S0045_13)
+- [![Thumbnail: IMG_0726](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0726.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0726.jpeg) — Fort William Henry Hotel, Fort Edward, N.Y. (S0046-18)
+- [1884?] [![Thumbnail: IMG_0727](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0727.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0727.jpeg) — Baldwin Street, Elmira, N.Y. (S0046-19)
+- [1885?] [![Thumbnail: IMG_0728](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0728.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0728.jpeg) (S0047)
+- [1887?] [![Thumbnail: IMG_0729](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0729.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0729.jpeg) — Elizabethtown (S0047-002)
+- [1887] [![Thumbnail: IMG_0730](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0730.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0730.jpeg) — Elizabethtown, New York (S0048)
+- [1891] [![Thumbnail: IMG_0774](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0774.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0774.jpeg) — Saratoga Springs, N.Y. (S0051)
 - (S0052) Proceedings of the Forty-Ninth Annual Meeting of the New York State Teachers' Association
-  - [1894] [![Thumbnail: IMG_0776](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0776.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0776.jpeg) — Saratoga Springs, N.Y.
-  - [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0775.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0775.jpeg)
-- [1895] [![Thumbnail: IMG_0792](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0792.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0792.jpeg) — Syracuse, New York (S0054)
-- [1897] [![Thumbnail: IMG_0795](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0795.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0795.jpeg) — Rochester, N.Y. and New York City (S0054-018)
-- [1895?] [![Thumbnail: IMG_0793](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0793.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0793.jpeg) (S0054-16)
-- [1898] [![Thumbnail: IMG_0809](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0809.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0809.jpeg) — Rochester, N.Y. (S0056)
+  - [1894] [![Thumbnail: IMG_0776](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0776.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0776.jpeg) — Saratoga Springs, N.Y.
+  - [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0775.jpeg)
+- [1895] [![Thumbnail: IMG_0792](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0792.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0792.jpeg) — Syracuse, New York (S0054)
+- [1897] [![Thumbnail: IMG_0795](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0795.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0795.jpeg) — Rochester, N.Y. and New York City (S0054-018)
+- [1895?] [![Thumbnail: IMG_0793](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0793.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0793.jpeg) (S0054-16)
+- [1898] [![Thumbnail: IMG_0809](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0809.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0809.jpeg) — Rochester, N.Y. (S0056)
 
 ### Membership & Organization
-- [1896] [![Thumbnail: IMG_3363](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3363.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3363.jpeg) — New York City (S0021-003)
+- [1896] [![Thumbnail: IMG_3363](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3363.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3363.jpeg) — New York City (S0021-003)
 - (S0026) New York State Teachers Association Members and Committee Information
-  - [![Thumbnail: IMG_3378](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3378.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3378.jpeg)
-  - [![Thumbnail: IMG_3385](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3385.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3385.jpeg) — New York State
-- [![Thumbnail: IMG_3384](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3384.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3384.jpeg) (S0026-06)
-- [![Thumbnail: IMG_0627](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0627.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0627.jpeg) — Rochester, New York (S0034)
-- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0631.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0631.jpeg) (S0034-005)
-- [![Thumbnail: IMG_0662](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0662.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0662.jpeg) (S0036-019)
-- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0665.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0665.jpeg) (S0043-002)
-- [1901?] [![Thumbnail: IMG_0674](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0674.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0674.jpeg) — Buffalo, New York (S0043-018)
-- [1901] [![Thumbnail: IMG_0676](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0676.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0676.jpeg) — Buffalo, New York (S0044_3)
-- [1892] [![Thumbnail: IMG_3358](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3358.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3358.jpeg) (s0020-002)
+  - [![Thumbnail: IMG_3378](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3378.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3378.jpeg)
+  - [![Thumbnail: IMG_3385](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3385.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3385.jpeg) — New York State
+- [![Thumbnail: IMG_3384](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3384.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3384.jpeg) (S0026-06)
+- [![Thumbnail: IMG_0627](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0627.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0627.jpeg) — Rochester, New York (S0034)
+- [1926?] [![Thumbnail: IMG_0631](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0631.jpeg) (S0034-005)
+- [![Thumbnail: IMG_0662](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0662.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0662.jpeg) (S0036-019)
+- [1900?] [![Thumbnail: IMG_0665](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0665.jpeg) (S0043-002)
+- [1901?] [![Thumbnail: IMG_0674](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0674.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0674.jpeg) — Buffalo, New York (S0043-018)
+- [1901] [![Thumbnail: IMG_0676](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0676.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0676.jpeg) — Buffalo, New York (S0044_3)
+- [1892] [![Thumbnail: IMG_3358](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3358.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3358.jpeg) (s0020-002)
 
 ### Advocacy & Policy
-- [1927?] [![Thumbnail: IMG_0654](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0654.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0654.jpeg) — Utica (event), Albany (publisher) (AG005)
-- [1855] [![Thumbnail: IMG_3337](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3337.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3337.jpeg) (S0014_005)
-- [![Thumbnail: IMG_0629](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0629.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0629.jpeg) (S0034_3)
-- [![Thumbnail: IMG_0771](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0771.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0771.jpeg) (S0050)
+- [1927?] [![Thumbnail: IMG_0654](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0654.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0654.jpeg) — Utica (event), Albany (publisher) (AG005)
+- [1855] [![Thumbnail: IMG_3337](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3337.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3337.jpeg) (S0014_005)
+- [![Thumbnail: IMG_0629](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0629.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0629.jpeg) (S0034_3)
+- [![Thumbnail: IMG_0771](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0771.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0771.jpeg) (S0050)
 
 ### Publications & Periodicals
 - (AG004) Guide: Official and unofficial magazines of the New York State Teachers Association (yellow sheet)
-  - [![Thumbnail: IMG_0638](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0638.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0638.jpeg) — NYS Teachers Association publications overview
-  - [![Thumbnail: IMG_0640](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0640.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0640.jpeg) — NYS Teachers Association publications overview
-- [1927?] [![Thumbnail: IMG_0655](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0655.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0655.jpeg) — New York State Teachers' Association history notes (AG006)
-- [![Thumbnail: IMG_3382](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3382.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3382.jpeg) — New York, N.Y. (S0026)
-- [![Thumbnail: IMG_3381](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3381.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3381.jpeg) — New York, New York (S0026-04)
-- [![Thumbnail: IMG_3391](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_3391.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_3391.jpeg) — New York, New York (S0026-13)
-- [1941] [![Thumbnail: IMG_0619](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0619.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0619.jpeg) (S0031_001)
-- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0663.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0663.jpeg) (S0042)
-- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0683.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0683.jpeg) (S0045_04)
+  - [![Thumbnail: IMG_0638](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0638.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0638.jpeg) — NYS Teachers Association publications overview
+  - [![Thumbnail: IMG_0640](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0640.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0640.jpeg) — NYS Teachers Association publications overview
+- [1927?] [![Thumbnail: IMG_0655](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0655.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0655.jpeg) — New York State Teachers' Association history notes (AG006)
+- [![Thumbnail: IMG_3382](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3382.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3382.jpeg) — New York, N.Y. (S0026)
+- [![Thumbnail: IMG_3381](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3381.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3381.jpeg) — New York, New York (S0026-04)
+- [![Thumbnail: IMG_3391](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_3391.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_3391.jpeg) — New York, New York (S0026-13)
+- [1941] [![Thumbnail: IMG_0619](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0619.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0619.jpeg) (S0031_001)
+- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0663.jpeg) (S0042)
+- [1905] [![Thumbnail: IMG_0683](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0683.jpeg) (S0045_04)
 
 ### Bound Volumes & Archival Notes
-- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0663.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0663.jpeg) (S0042)
-- [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0775.jpeg)](https://github.com/zmuhls/csa/main/blob/scans/img/IMG_0775.jpeg) (S0052)
+- [![Thumbnail: IMG_0663](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0663.jpeg) (S0042)
+- [![Thumbnail: IMG_0775](https://media.githubusercontent.com/media/zmuhls/csa/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0775.jpeg) (S0052)
 
 ---
 
