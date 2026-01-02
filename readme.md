@@ -34,17 +34,7 @@ The system employs a **multimodal AI pipeline** (Qwen VL Plus via OpenRouter) to
 
 Extracted tabular data from NYS Archives Series A4456: District Consolidation Records (1888-1940s). Each page includes the source document image and structured table extraction.
 
-| County | Pages | Format |
-|--------|-------|--------|
-| [Albany County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_2.md) | 2-5 | Markdown |
-| [Allegany County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_5.md) | 5 | Markdown |
-| [Cattaraugus County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_6.md) | 6-9 | Markdown |
-| [Cayuga County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_10.md) | 10-13 | Markdown |
-| [Chautauqua County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_14.md) | 14-18 | Markdown |
-| [Chemung County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_19.md) | 19-20 | Markdown |
-| [Chenango County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_21.md) | 21-22 | Markdown |
-| [Clinton County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_23.md) | 23-24 | Markdown |
-| [Columbia County](output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_25.md) | 25-26 | Markdown |
+**[Browse by County](output/collections/district-consolidation-by-county.md)** — 30 NY counties with 115 pages of consolidated district, union free school, and central rural school records.
 
 **Full index:** [Browse all 115 table extractions](output/ocr/tables/markdown/)
 
@@ -80,6 +70,7 @@ cs-archive/
 │   ├── batch_label_images.py
 │   ├── extract_all_tables.py
 │   ├── generate_nys_teachers_collection.py
+│   ├── generate_county_collection.py
 │   └── dev/                    # Experimental/test scripts
 │
 ├── output/                     # Generated outputs
